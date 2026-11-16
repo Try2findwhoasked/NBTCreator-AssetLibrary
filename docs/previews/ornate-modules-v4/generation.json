@@ -1,0 +1,606 @@
+{
+  "components": [
+    {
+      "blocks": 3009,
+      "content_sha256": "7e6d08434eaf4fde65a3485b7a7b5f1b046412dd8fbf0811ef257e6fce901f77",
+      "id": "ornate-pillar-corinthian",
+      "kind": "pillar",
+      "name": "白金莨苕叶柱",
+      "parameters": {
+        "accent": "gold_block",
+        "form": {
+          "capital_height": 12,
+          "flute_count": 16,
+          "flute_depth": 0.75,
+          "leaf_count": 12,
+          "leaf_layers": 3,
+          "order": "corinthian"
+        },
+        "kind": "pillar",
+        "material": "quartz_block",
+        "name": "白金莨苕叶柱",
+        "size": [
+          13,
+          56,
+          13
+        ]
+      },
+      "size": [
+        13,
+        56,
+        13
+      ],
+      "source_sha256": "f304ee17f1bf155bf0adf1c58ed3a108d9321a35ec7ff9859b213b66aad17828"
+    },
+    {
+      "blocks": 4300,
+      "content_sha256": "d5bdc4fbbe2fada31cb07678dd11c6ebb63c9bcef4af4e1a8d2a582aafa6459c",
+      "id": "ornate-pillar-composite",
+      "kind": "pillar",
+      "name": "黑金复合柱式",
+      "parameters": {
+        "accent": "gold_block",
+        "form": {
+          "capital_height": 12,
+          "detail_material": "gold_block",
+          "flute_count": 16,
+          "flute_depth": 0.75,
+          "leaf_count": 12,
+          "leaf_layers": 3,
+          "order": "composite"
+        },
+        "kind": "pillar",
+        "material": "polished_blackstone_bricks",
+        "name": "黑金复合柱式",
+        "size": [
+          15,
+          64,
+          15
+        ]
+      },
+      "size": [
+        15,
+        64,
+        15
+      ],
+      "source_sha256": "c0342b577c3efa5e5e1952ced55fbae05bbef1699c28668e9e837de1043c7b2a"
+    },
+    {
+      "blocks": 2171,
+      "content_sha256": "bc1507fd0757a48906fd413df75b72081dc4becee3475f73845d8fe10871a305",
+      "id": "ornate-pillar-ionic",
+      "kind": "pillar",
+      "name": "象牙蓝颈饰涡卷柱",
+      "parameters": {
+        "accent": "blue_concrete",
+        "form": {
+          "detail_material": "gold_block",
+          "neck_pattern": "egg_dart",
+          "order": "ionic"
+        },
+        "kind": "pillar",
+        "material": "smooth_quartz",
+        "name": "象牙蓝颈饰涡卷柱",
+        "size": [
+          13,
+          48,
+          13
+        ]
+      },
+      "size": [
+        13,
+        48,
+        13
+      ],
+      "source_sha256": "c3a540f55a57ae6014b421e381c01b4595fc81c1c5b0be53caa08b81a7e19829"
+    },
+    {
+      "blocks": 370,
+      "content_sha256": "ffafbe568e1dc784fc43c2152787488a675c405ab567535fb2e6690cc9f9d6a8",
+      "id": "ornate-stairs-ceremonial",
+      "kind": "stairs",
+      "name": "镶嵌平台礼仪阶梯",
+      "parameters": {
+        "accent": "quartz_bricks",
+        "form": {
+          "handrail": {
+            "height": 2,
+            "side": "both",
+            "style": "horizontal"
+          },
+          "landing": 3,
+          "profile": "straight",
+          "rise": 8,
+          "run_width": 5,
+          "tread": "quartz_stairs"
+        },
+        "kind": "stairs",
+        "material": "smooth_quartz",
+        "name": "镶嵌平台礼仪阶梯",
+        "size": [
+          9,
+          13,
+          15
+        ]
+      },
+      "size": [
+        9,
+        13,
+        15
+      ],
+      "source_sha256": "f1ec0d7a9c1b7a9657819ed8d685937d58bc7e6ecec720ff5eb7db158af84bb6"
+    },
+    {
+      "blocks": 1187,
+      "content_sha256": "5a3b946d26c7471fe837cff563ba749af2b2f5e31b7d9aea5455ab5028542f69",
+      "id": "ornate-wall-vine",
+      "kind": "wall",
+      "name": "蓝金卷叶浮雕饰墙",
+      "parameters": {
+        "accent": "blue_concrete",
+        "kind": "wall",
+        "material": "quartz_bricks",
+        "name": "蓝金卷叶浮雕饰墙",
+        "ornament": {
+          "border_layers": 2,
+          "density": 100,
+          "depth": 3,
+          "material": "gold_block",
+          "motif": "vine",
+          "profile": "art_nouveau",
+          "scale": 4
+        },
+        "size": [
+          29,
+          23,
+          5
+        ]
+      },
+      "size": [
+        29,
+        23,
+        5
+      ],
+      "source_sha256": "0072d9184447e32b5112831e00665cb20eeebed50786fda81da33ef57c372db0"
+    },
+    {
+      "blocks": 1256,
+      "content_sha256": "5dd71efb98421c2d876aa5845f4f9a088eda290229e7c52d9cb7f765cac88afb",
+      "id": "ornate-wall-fan",
+      "kind": "wall",
+      "name": "黑金放射折线饰墙",
+      "parameters": {
+        "accent": "gold_block",
+        "kind": "wall",
+        "material": "polished_blackstone_bricks",
+        "name": "黑金放射折线饰墙",
+        "ornament": {
+          "border_layers": 2,
+          "density": 100,
+          "depth": 3,
+          "material": "gold_block",
+          "motif": "sunburst",
+          "profile": "art_deco",
+          "scale": 4
+        },
+        "size": [
+          29,
+          23,
+          5
+        ]
+      },
+      "size": [
+        29,
+        23,
+        5
+      ],
+      "source_sha256": "35a07f325d9b43afa4b3d18071427f0f523cf9982170f421c8a0504b68d75b5f"
+    },
+    {
+      "blocks": 1489,
+      "content_sha256": "19386a6be546a0f093438ac8b93d2ed6c9d3d6609671bcd17d14c732eb4f8d4f",
+      "id": "ornate-ceiling-coffers",
+      "kind": "ceiling",
+      "name": "白金凹格宫廷藻井",
+      "parameters": {
+        "accent": "gold_block",
+        "form": {
+          "drop": 3,
+          "pitch": 5,
+          "profile": "grid"
+        },
+        "kind": "ceiling",
+        "material": "quartz_bricks",
+        "name": "白金凹格宫廷藻井",
+        "ornament": {
+          "border_layers": 2,
+          "density": 100,
+          "depth": 2,
+          "material": "gold_block",
+          "motif": "dentil",
+          "profile": "classical",
+          "scale": 3
+        },
+        "size": [
+          27,
+          7,
+          27
+        ]
+      },
+      "size": [
+        27,
+        7,
+        27
+      ],
+      "source_sha256": "575d9e7ea9b47b7a6729f046dd7a877520dac2258e94ad4b76bc5f98c2a7e2d3"
+    },
+    {
+      "blocks": 1563,
+      "content_sha256": "6c4d39016b80831361786c277acd6943a66daafb941f99fb36a11431a32fb435",
+      "id": "ornate-ceiling-lattice",
+      "kind": "ceiling",
+      "name": "蓝金格栅天花",
+      "parameters": {
+        "accent": "gold_block",
+        "form": {
+          "drop": 3,
+          "pitch": 5,
+          "profile": "grid"
+        },
+        "kind": "ceiling",
+        "material": "blue_concrete",
+        "name": "蓝金格栅天花",
+        "ornament": {
+          "border_layers": 2,
+          "density": 100,
+          "depth": 2,
+          "material": "gold_block",
+          "motif": "diamond",
+          "profile": "geometric",
+          "scale": 3
+        },
+        "size": [
+          27,
+          7,
+          27
+        ]
+      },
+      "size": [
+        27,
+        7,
+        27
+      ],
+      "source_sha256": "9e659ebf75ba2c0b858a172f3ba432a63ce4c28bb99971620a0ccf49f4b00cc9"
+    },
+    {
+      "blocks": 383,
+      "content_sha256": "d0c349c22b5b736277ed5af1942a210381c0a2d84f0bea70496acd0da2406ead",
+      "id": "ornate-plant-vessel",
+      "kind": "plant",
+      "name": "花冠镶金陈设花器",
+      "parameters": {
+        "accent": "quartz_bricks",
+        "foliage": "flowering_azalea_leaves[persistent=true]",
+        "form": {
+          "crown_height": 8,
+          "density": 100,
+          "pot_height": 5,
+          "profile": "trailing",
+          "radius": 3
+        },
+        "kind": "plant",
+        "material": "dark_oak_log",
+        "name": "花冠镶金陈设花器",
+        "ornament": {
+          "border_layers": 0,
+          "density": 100,
+          "depth": 1,
+          "material": "gold_block",
+          "motif": "leaf",
+          "profile": "art_nouveau",
+          "scale": 3
+        },
+        "size": [
+          9,
+          15,
+          9
+        ]
+      },
+      "size": [
+        9,
+        15,
+        9
+      ],
+      "source_sha256": "da6c414aa4c41c47f750819085e5ef70570b470b8bf0d84689bd9ed5c5d1af5c"
+    },
+    {
+      "blocks": 994,
+      "content_sha256": "49911783066d997520ae83ab4e185b91a097794b13f9585acd14e53366651697",
+      "id": "ornate-planter-gallery",
+      "kind": "planter",
+      "name": "金线连槽花廊",
+      "parameters": {
+        "accent": "quartz_bricks",
+        "foliage": "flowering_azalea_leaves[persistent=true]",
+        "form": {
+          "crown_height": 8,
+          "density": 100,
+          "pot_height": 4,
+          "profile": "upright",
+          "radius": 3
+        },
+        "kind": "planter",
+        "material": "dark_oak_log",
+        "name": "金线连槽花廊",
+        "size": [
+          27,
+          12,
+          9
+        ]
+      },
+      "size": [
+        27,
+        12,
+        9
+      ],
+      "source_sha256": "8aea3f905ef4167fa74028ff42a2ab53bb3cc5a4694de5b837b3baa6d29c15da"
+    },
+    {
+      "blocks": 903,
+      "content_sha256": "a5f0d65b92597a631672466f85f9d67c9ea293e9f44fd74e895f9d8751a28c78",
+      "id": "ornate-shelf-palace",
+      "kind": "shelf",
+      "name": "镀金陈列书架",
+      "parameters": {
+        "accent": "gold_block",
+        "kind": "shelf",
+        "material": "dark_oak_planks",
+        "name": "镀金陈列书架",
+        "ornament": {
+          "border_layers": 0,
+          "density": 100,
+          "depth": 1,
+          "material": "gold_block",
+          "motif": "pointed_arch",
+          "profile": "gothic",
+          "scale": 3
+        },
+        "size": [
+          15,
+          19,
+          7
+        ],
+        "spacing": 4
+      },
+      "size": [
+        15,
+        19,
+        7
+      ],
+      "source_sha256": "1d948c64cf78a7e76cc72e284f871dabb0a76745d8310f54bf721ec1647811a2"
+    },
+    {
+      "blocks": 97,
+      "content_sha256": "b8e1927b498fbfba67154cf7bf0b886a0bc2a403cc6f0c70ed69fcfd578874fa",
+      "id": "ornate-lantern-court",
+      "kind": "lantern",
+      "name": "四盏花枝庭灯",
+      "parameters": {
+        "accent": "gold_block",
+        "kind": "lantern",
+        "material": "polished_blackstone_bricks",
+        "name": "四盏花枝庭灯",
+        "size": [
+          7,
+          15,
+          7
+        ],
+        "style": "stepped"
+      },
+      "size": [
+        7,
+        15,
+        7
+      ],
+      "source_sha256": "2cca1cab08d04c4d9d07c98a97b44b374a8116123ced9dedc9fae2287f506bd4"
+    },
+    {
+      "blocks": 739,
+      "content_sha256": "9f022e7bb42d098ef22f6ef133bb6e2c186e0d4dcb872e8eb75727ff5f8eb27a",
+      "id": "ornate-beam-dentil",
+      "kind": "beam",
+      "name": "齿饰金边檐梁",
+      "parameters": {
+        "accent": "gold_block",
+        "form": {
+          "pitch": 5,
+          "profile": "braced"
+        },
+        "kind": "beam",
+        "material": "quartz_bricks",
+        "name": "齿饰金边檐梁",
+        "ornament": {
+          "border_layers": 0,
+          "density": 100,
+          "depth": 1,
+          "material": "gold_block",
+          "motif": "dentil",
+          "profile": "classical",
+          "scale": 3
+        },
+        "size": [
+          31,
+          7,
+          7
+        ]
+      },
+      "size": [
+        31,
+        7,
+        7
+      ],
+      "source_sha256": "0bc06b8b2ec860645a1813e7c4d12c33c43ed7d8053710dfbaae8f651fcfba35"
+    },
+    {
+      "blocks": 560,
+      "content_sha256": "ebd369683f5c9e7633cd45f0493af12082b15b32f74b75fb8a936e4cf91f13bf",
+      "id": "ornate-arch-gilded",
+      "kind": "arch",
+      "name": "白金椭圆礼仪拱门",
+      "parameters": {
+        "accent": "gold_block",
+        "form": {
+          "border": 2,
+          "profile": "round"
+        },
+        "kind": "arch",
+        "material": "quartz_bricks",
+        "name": "白金椭圆礼仪拱门",
+        "ornament": {
+          "border_layers": 0,
+          "density": 100,
+          "depth": 1,
+          "material": "gold_block",
+          "motif": "dentil",
+          "profile": "classical",
+          "scale": 3
+        },
+        "size": [
+          23,
+          27,
+          5
+        ]
+      },
+      "size": [
+        23,
+        27,
+        5
+      ],
+      "source_sha256": "151602100d412ada4685add1784d745555cf7b4187fab5a2e6cae3407f5a86e0"
+    },
+    {
+      "blocks": 75,
+      "content_sha256": "6fbcfb0ddf27a09a2cdc7dd9955c9368fe6d72bd52c0ca24c314dd09cceb9464",
+      "id": "ornate-railing-frieze",
+      "kind": "railing",
+      "name": "宫廷横索栏片与雕饰下槛",
+      "parameters": {
+        "form": {
+          "pitch": 4,
+          "profile": "horizontal"
+        },
+        "kind": "railing",
+        "name": "宫廷横索栏片与雕饰下槛",
+        "size": [
+          25,
+          3,
+          3
+        ]
+      },
+      "size": [
+        25,
+        3,
+        3
+      ],
+      "source_sha256": "0b151ed4a2f0e085541a04bcfd7a8bf5b9d1ded42a0e5016dc9dbdbcaee5756d"
+    },
+    {
+      "blocks": 121,
+      "content_sha256": "3051189378c892b10571c03e0b49cf8b25a364a4462f354ad7befe2e63645a46",
+      "id": "ornate-table-inlaid",
+      "kind": "table",
+      "name": "镶铜白石纹样长桌",
+      "parameters": null,
+      "size": [
+        13,
+        2,
+        9
+      ],
+      "source_sha256": "0a73c4b36817d9dd8e130397cd0dcbd29def5085b39589cd2851cef55a58c33f"
+    },
+    {
+      "blocks": 123,
+      "content_sha256": "2408a78c690cfed88aa81be51e005d84efcbd4ea8b0428f02d406f80053e45de",
+      "id": "ornate-bench-highback",
+      "kind": "bench",
+      "name": "薄木花格高背长椅",
+      "parameters": null,
+      "size": [
+        15,
+        4,
+        5
+      ],
+      "source_sha256": "472efa4cb1150830e1f99121fdad048c1432ea238ad94d32e324c579c852689b"
+    },
+    {
+      "blocks": 551,
+      "content_sha256": "6a606603695839f2a848f91619e5a755cdaa21f4e5d8699d3d67774e9139545a",
+      "id": "ornate-bracket-volute",
+      "kind": "bracket",
+      "name": "涡卷柱头承托块",
+      "parameters": {
+        "accent": "smooth_quartz",
+        "form": {
+          "detail_material": "gold_block",
+          "order": "ionic"
+        },
+        "kind": "pillar",
+        "material": "smooth_quartz",
+        "size": [
+          13,
+          48,
+          13
+        ]
+      },
+      "size": [
+        13,
+        8,
+        13
+      ],
+      "source_sha256": "fc68a5c1d2bba41a1f77b37b83b607518e9a21aa6dc0c6a8504520348a94d120"
+    },
+    {
+      "blocks": 1001,
+      "content_sha256": "a51eeba1ddf6ee1464fdbf6ad49ba1e6b2d1c0646199a31043457db077585192",
+      "id": "ornate-pedestal-moulded",
+      "kind": "pedestal",
+      "name": "金线环带陈设基座",
+      "parameters": {
+        "accent": "smooth_quartz",
+        "form": {
+          "base_height": 9,
+          "base_profile": "torus",
+          "capital_height": 3
+        },
+        "kind": "pillar",
+        "material": "smooth_quartz",
+        "size": [
+          13,
+          48,
+          13
+        ]
+      },
+      "size": [
+        13,
+        9,
+        13
+      ],
+      "source_sha256": "800fa09400ce54208e30055a8abd6e189224412670cba5ba2885186c560a60c1"
+    },
+    {
+      "blocks": 21,
+      "content_sha256": "d10e992d1946fefe97a1ea9bf0fede26c341400733306af7248de706d8cfdc54",
+      "id": "ornate-lantern-chandelier",
+      "kind": "lantern",
+      "name": "四臂金饰悬灯",
+      "parameters": null,
+      "size": [
+        9,
+        8,
+        9
+      ],
+      "source_sha256": "7c5a4db1b40deca2207a3e018f231499c3a776e712146f0d304891285617d4a1"
+    }
+  ],
+  "nbt_exported": false
+}

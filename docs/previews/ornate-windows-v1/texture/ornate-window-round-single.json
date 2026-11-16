@@ -1,0 +1,114 @@
+{
+  "source_sha256": "d94c520f1ec466098f4cdf9acd2dd84a5e89c54dd7a1d260fd618e5075c3fcf8",
+  "geometry_sha256": "4e56a15373665f1cfd53a04c7b9da5d0d10b67aff66f945a5e78925ab848697d",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      70.09757995605469,
+      18.76072883605957,
+      4.680387496948242
+    ],
+    "target": [
+      87.5,
+      11.5,
+      42
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 80,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 120,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 40,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 80,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 708,
+  "interaction_max_fps": 60,
+  "mesh_builds": 8,
+  "rendered_frames": 8,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-window-round-single",
+  "role": "圆拱券与楔石窗",
+  "requested_view": {
+    "id": "ornate-window-round-single",
+    "role": "圆拱券与楔石窗",
+    "eye": [
+      70.09757867759268,
+      18.760728384424162,
+      4.680387040474386
+    ],
+    "target": [
+      87.5,
+      11.5,
+      42
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 120,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "94a974f4b7fce6ff102ec953fb838d716499aac78811380c442a7869666525d7",
+  "image": "ornate-window-round-single.png",
+  "image_sha256": "290cb564a37d9f793180c117689698d109e7a6398eac639f46b5fac36e9a205a",
+  "duration_ms": 24.958699999999908
+}

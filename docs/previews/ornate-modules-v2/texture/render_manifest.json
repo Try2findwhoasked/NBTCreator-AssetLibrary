@@ -1,0 +1,1081 @@
+{
+  "browser_version": "157.0.4341.60",
+  "cameras_sha256": "e5328fa2e6773c3a125e8d762155427c517dc62dcfa3c6a3f5d07598796fd168",
+  "cleanup": {
+    "browser_closed": true,
+    "server_closed": true
+  },
+  "duration_ms": 2083.5926,
+  "format_version": 1,
+  "geometry_sha256": "edcac602f2ea613af9eee0fd410feac5f61b7b9c688b118aa18ec4f5bc9a96e9",
+  "height": 960,
+  "images": [
+    {
+      "duration_ms": 64.97559999999999,
+      "image": "ornate-pillar-corinthian.png",
+      "mesh_builds": 2,
+      "metadata": "ornate-pillar-corinthian.json",
+      "rendered_frames": 2,
+      "sha256": "27ad4d02a911579321e5c22e7fa0b35e58ca9a689372d3472777ba62da6a5615"
+    },
+    {
+      "duration_ms": 61.81359999999995,
+      "image": "ornate-pillar-composite.png",
+      "mesh_builds": 3,
+      "metadata": "ornate-pillar-composite.json",
+      "rendered_frames": 3,
+      "sha256": "06b0ee299ae09ffe4dceff5d71b1b7c655de4e4b462a9f2c0aeff8a02b5f40c7"
+    },
+    {
+      "duration_ms": 34.330400000000054,
+      "image": "ornate-pillar-ionic.png",
+      "mesh_builds": 4,
+      "metadata": "ornate-pillar-ionic.json",
+      "rendered_frames": 4,
+      "sha256": "a7c9cf2d9606749ead2846c95ddc9833991138225f32b30995216674edf4b984"
+    },
+    {
+      "duration_ms": 27.70769999999993,
+      "image": "ornate-stairs-ceremonial.png",
+      "mesh_builds": 5,
+      "metadata": "ornate-stairs-ceremonial.json",
+      "rendered_frames": 5,
+      "sha256": "e4b2f85457d593c21865b1497f57214b6458bb5246621228cf4a893a346fcd4c"
+    },
+    {
+      "duration_ms": 46.600999999999885,
+      "image": "ornate-wall-vine.png",
+      "mesh_builds": 6,
+      "metadata": "ornate-wall-vine.json",
+      "rendered_frames": 6,
+      "sha256": "b81852063b3214ed3c6eaa9525098e6227b0a08bd91c4c3b9319121db6f31efe"
+    },
+    {
+      "duration_ms": 41.38610000000017,
+      "image": "ornate-wall-fan.png",
+      "mesh_builds": 7,
+      "metadata": "ornate-wall-fan.json",
+      "rendered_frames": 7,
+      "sha256": "3e4a9f9373df2e2f0251f9f7c086ea745d09a354daf3f0c013876197be5e74f4"
+    },
+    {
+      "duration_ms": 42.45820000000003,
+      "image": "ornate-ceiling-coffers.png",
+      "mesh_builds": 8,
+      "metadata": "ornate-ceiling-coffers.json",
+      "rendered_frames": 8,
+      "sha256": "283c78804d2cf9988fc7c2bfb6884f8bd6623f5bc224d72d36080c9e34730b32"
+    },
+    {
+      "duration_ms": 46.72790000000009,
+      "image": "ornate-ceiling-lattice.png",
+      "mesh_builds": 9,
+      "metadata": "ornate-ceiling-lattice.json",
+      "rendered_frames": 9,
+      "sha256": "21dbd34c9766ae3fbe449c827d3bbdb9f8ef809f1b46af131193598b0d03df60"
+    },
+    {
+      "duration_ms": 29.373000000000047,
+      "image": "ornate-plant-vessel.png",
+      "mesh_builds": 10,
+      "metadata": "ornate-plant-vessel.json",
+      "rendered_frames": 10,
+      "sha256": "1b48c3340374025f247895e5d71ae23f13941824f2c77f55cb9f449b21359e50"
+    },
+    {
+      "duration_ms": 41.209299999999985,
+      "image": "ornate-planter-gallery.png",
+      "mesh_builds": 11,
+      "metadata": "ornate-planter-gallery.json",
+      "rendered_frames": 11,
+      "sha256": "8b891713a2f8aa4a0bb682859949312ebb043dc656392cbaf8a04b6ea1bbd4cc"
+    },
+    {
+      "duration_ms": 36.13689999999997,
+      "image": "ornate-shelf-palace.png",
+      "mesh_builds": 12,
+      "metadata": "ornate-shelf-palace.json",
+      "rendered_frames": 12,
+      "sha256": "b6ca5dd576eb3b55a46777648617a55e97a58cfe62f2727787e948f507be3fcd"
+    },
+    {
+      "duration_ms": 18.366400000000112,
+      "image": "ornate-lantern-court.png",
+      "mesh_builds": 13,
+      "metadata": "ornate-lantern-court.json",
+      "rendered_frames": 13,
+      "sha256": "8c87b56233c907356cd7becec02ac7c82be37040d5a965ef2dabf530219328f6"
+    },
+    {
+      "duration_ms": 23.810500000000047,
+      "image": "ornate-beam-dentil.png",
+      "mesh_builds": 14,
+      "metadata": "ornate-beam-dentil.json",
+      "rendered_frames": 14,
+      "sha256": "8d9d7f73374f1b528f70438a44787a3649c1f08243dc1e989b9c30353e457452"
+    },
+    {
+      "duration_ms": 24.679599999999937,
+      "image": "ornate-arch-gilded.png",
+      "mesh_builds": 15,
+      "metadata": "ornate-arch-gilded.json",
+      "rendered_frames": 15,
+      "sha256": "d3e4b400179de43979c11b05e5eb73943b3171d1ff56613e5aff171f920ae757"
+    },
+    {
+      "duration_ms": 17.2971,
+      "image": "ornate-railing-frieze.png",
+      "mesh_builds": 16,
+      "metadata": "ornate-railing-frieze.json",
+      "rendered_frames": 16,
+      "sha256": "c628460e631f31b3ffe3109598ce567ba2d7f7b3629f08fe206b7a3345d93ac0"
+    },
+    {
+      "duration_ms": 19.24479999999994,
+      "image": "ornate-table-inlaid.png",
+      "mesh_builds": 17,
+      "metadata": "ornate-table-inlaid.json",
+      "rendered_frames": 17,
+      "sha256": "2c693107cf8deb28c487c8d991484b72ae487020584d5b35014f651fe0590baa"
+    },
+    {
+      "duration_ms": 18.84869999999978,
+      "image": "ornate-bench-highback.png",
+      "mesh_builds": 18,
+      "metadata": "ornate-bench-highback.json",
+      "rendered_frames": 18,
+      "sha256": "855646f0901ca317e9a9c6f8b98d63d7aaeb73cac190c120f0bcef27fdfe0dd1"
+    },
+    {
+      "duration_ms": 21.602499999999964,
+      "image": "ornate-bracket-volute.png",
+      "mesh_builds": 19,
+      "metadata": "ornate-bracket-volute.json",
+      "rendered_frames": 19,
+      "sha256": "742e9868f7ebe60a3c7cd552c33abba05f708098abbbb902bb9616b204685fa9"
+    },
+    {
+      "duration_ms": 23.73810000000003,
+      "image": "ornate-pedestal-moulded.png",
+      "mesh_builds": 20,
+      "metadata": "ornate-pedestal-moulded.json",
+      "rendered_frames": 20,
+      "sha256": "b6a88d2000423a8641d90bc2245d66d87fe96e4f35873a1336431a039fb14a7d"
+    },
+    {
+      "duration_ms": 12.515199999999822,
+      "image": "ornate-lantern-chandelier.png",
+      "mesh_builds": 21,
+      "metadata": "ornate-lantern-chandelier.json",
+      "rendered_frames": 21,
+      "sha256": "0ae3ec4555a087553b406124a4536cf58c851c92b9abec2056af011e0f4cb220"
+    }
+  ],
+  "initialization_ms": 486.6000000014901,
+  "page_errors": [],
+  "pixel_ratio": 1,
+  "publication": {
+    "images_and_geometry_unchanged": true,
+    "original_render_manifest_sha256": "537a1dfae5516ddef45abb73ef45083367ebdf47bc73211ffe11872908f26c64",
+    "original_snapshot_sha256": "b59158f63d5e3ce799aa303045311ce1890cf688d5fcadac1dacac1e96ec5286",
+    "source_path_base": "manifest_directory",
+    "source_path_rebased": true
+  },
+  "quality": "balanced",
+  "resource_errors": [],
+  "scope": "Texture preview only; no collision, runtime, lighting or visual-design certification",
+  "snapshot_file": "snapshot.json",
+  "snapshot_sha256": "b4f359d9501cb0222df67da0e3cd28d7fd3e9ac391ed6a5ce41c20f6530c5301",
+  "source": "../collection.master.json.gz",
+  "source_sha256": "2e0f123ce1ab9de3cdcbfb6bad8691d59c91124ade19bcfce2f2e8f8791a6e82",
+  "status": "complete",
+  "views": [
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        56.66747759435146,
+        43.42232088585594,
+        78.14658312965274
+      ],
+      "fov": 42,
+      "id": "ornate-pillar-corinthian",
+      "layer": "all",
+      "lighting": "day",
+      "role": "白金莨苕叶柱",
+      "target": [
+        6.5,
+        28,
+        6.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        112.88813007757912,
+        49.64207011267631,
+        89.45874358095183
+      ],
+      "fov": 42,
+      "id": "ornate-pillar-composite",
+      "layer": "all",
+      "lighting": "day",
+      "role": "黑金复合柱式",
+      "target": [
+        55.5,
+        32,
+        7.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        146.2495675945764,
+        37.44934811187261,
+        68.98085775602372
+      ],
+      "fov": 42,
+      "id": "ornate-pillar-ionic",
+      "layer": "all",
+      "lighting": "day",
+      "role": "象牙蓝颈饰涡卷柱",
+      "target": [
+        102.5,
+        24,
+        6.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        160.84515424789814,
+        13.468337627024331,
+        25.55885543880179
+      ],
+      "fov": 42,
+      "id": "ornate-stairs-ceremonial",
+      "layer": "all",
+      "lighting": "day",
+      "role": "镶嵌平台礼仪阶梯",
+      "target": [
+        147.5,
+        5,
+        6.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        44.735929979981236,
+        30.686594533208616,
+        93.18138313290434
+      ],
+      "fov": 42,
+      "id": "ornate-wall-vine",
+      "layer": "all",
+      "lighting": "day",
+      "role": "蓝金卷草与多层窗带饰板",
+      "target": [
+        14.5,
+        11.5,
+        50
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        92.73592997998124,
+        30.686594533208616,
+        93.18138313290434
+      ],
+      "fov": 42,
+      "id": "ornate-wall-fan",
+      "layer": "all",
+      "lighting": "day",
+      "role": "黑金放射折线饰墙",
+      "target": [
+        62.5,
+        11.5,
+        50
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        132.90754993030367,
+        -35.309817919328786,
+        94.92944577567971
+      ],
+      "fov": 42,
+      "id": "ornate-ceiling-coffers",
+      "layer": "all",
+      "lighting": "day",
+      "role": "白金凹格宫廷藻井",
+      "target": [
+        109.5,
+        5.5,
+        61.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        180.90754993030367,
+        -35.309817919328786,
+        94.92944577567971
+      ],
+      "fov": 42,
+      "id": "ornate-ceiling-lattice",
+      "layer": "all",
+      "lighting": "day",
+      "role": "蓝金格栅天花",
+      "target": [
+        157.5,
+        5.5,
+        61.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        19.866792576041092,
+        16.751193981055906,
+        122.44605418749262
+      ],
+      "fov": 42,
+      "id": "ornate-plant-vessel",
+      "layer": "all",
+      "lighting": "day",
+      "role": "花冠镶金陈设花器",
+      "target": [
+        4.5,
+        7,
+        100.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        86.58510384100528,
+        21.91807219223826,
+        136.32524104945065
+      ],
+      "fov": 42,
+      "id": "ornate-planter-gallery",
+      "layer": "all",
+      "lighting": "day",
+      "role": "金线连槽花廊",
+      "target": [
+        61.5,
+        6,
+        100.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        85.6594893347355,
+        22.48682969253,
+        68.59932909478746
+      ],
+      "fov": 42,
+      "id": "ornate-shelf-palace",
+      "layer": "all",
+      "lighting": "day",
+      "role": "镀金陈列书架",
+      "target": [
+        103.5,
+        9.5,
+        99.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        162.09630658937297,
+        16.762272283277525,
+        120.34568616140979
+      ],
+      "fov": 42,
+      "id": "ornate-lantern-court",
+      "layer": "all",
+      "lighting": "day",
+      "role": "四盏花枝庭灯",
+      "target": [
+        147.5,
+        7.5,
+        99.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        41.92954556526304,
+        20.27120481471556,
+        185.2453028181303
+      ],
+      "fov": 42,
+      "id": "ornate-beam-dentil",
+      "layer": "all",
+      "lighting": "day",
+      "role": "齿饰金边檐梁",
+      "target": [
+        15.5,
+        3.5,
+        147.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        88.59075843185512,
+        31.95991133942527,
+        188.04590866907026
+      ],
+      "fov": 42,
+      "id": "ornate-arch-gilded",
+      "layer": "all",
+      "lighting": "day",
+      "role": "白金椭圆礼仪拱门",
+      "target": [
+        59.5,
+        13.5,
+        146.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        128.9657930601305,
+        14.486829692530002,
+        174.72818156522194
+      ],
+      "fov": 42,
+      "id": "ornate-railing-frieze",
+      "layer": "all",
+      "lighting": "day",
+      "role": "宫廷横索栏片与雕饰下槛",
+      "target": [
+        108.5,
+        1.5,
+        145.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        162.66207520472898,
+        12.274330124281464,
+        165.86924346148137
+      ],
+      "fov": 42,
+      "id": "ornate-table-inlaid",
+      "layer": "all",
+      "lighting": "day",
+      "role": "镶铜白石纹样长桌",
+      "target": [
+        150.5,
+        1,
+        148.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 240,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        -4.046789193559075,
+        10.405375135604297,
+        174.50037445246844
+      ],
+      "fov": 42,
+      "id": "ornate-bench-highback",
+      "layer": "all",
+      "lighting": "day",
+      "role": "薄木花格高背长椅",
+      "target": [
+        7.5,
+        2,
+        194.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 240,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        70.7837618553733,
+        14.333068518191164,
+        221.75562203601467
+      ],
+      "fov": 42,
+      "id": "ornate-bracket-volute",
+      "layer": "all",
+      "lighting": "day",
+      "role": "涡卷柱头承托块",
+      "target": [
+        54.5,
+        4,
+        198.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 240,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        119.12450516737056,
+        15.049291527422973,
+        222.24225391785424
+      ],
+      "fov": 42,
+      "id": "ornate-pedestal-moulded",
+      "layer": "all",
+      "lighting": "day",
+      "role": "金线环带陈设基座",
+      "target": [
+        102.5,
+        4.5,
+        198.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 240,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        158.1638921968698,
+        0.4854628855292171,
+        210.30146837833024
+      ],
+      "fov": 42,
+      "id": "ornate-lantern-chandelier",
+      "layer": "all",
+      "lighting": "day",
+      "role": "四臂金饰悬灯",
+      "target": [
+        148.5,
+        5,
+        196.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "level": "warning",
+      "text": "THREE.WebGLProgram: Program Info Log: (105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value"
+    }
+  ],
+  "width": 960
+}

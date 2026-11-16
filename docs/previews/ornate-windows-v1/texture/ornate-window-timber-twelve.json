@@ -1,0 +1,114 @@
+{
+  "source_sha256": "d94c520f1ec466098f4cdf9acd2dd84a5e89c54dd7a1d260fd618e5075c3fcf8",
+  "geometry_sha256": "4e56a15373665f1cfd53a04c7b9da5d0d10b67aff66f945a5e78925ab848697d",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      34.412662506103516,
+      10.917304992675781,
+      -20.704618453979492
+    ],
+    "target": [
+      45,
+      6.5,
+      2
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 40,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 80,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 0,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 40,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 232,
+  "interaction_max_fps": 60,
+  "mesh_builds": 3,
+  "rendered_frames": 3,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-window-timber-twelve",
+  "role": "十二格上下木窗",
+  "requested_view": {
+    "id": "ornate-window-timber-twelve",
+    "role": "十二格上下木窗",
+    "eye": [
+      34.41266277381542,
+      10.917303689495725,
+      -20.704617951321314
+    ],
+    "target": [
+      45,
+      6.5,
+      2
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "94a974f4b7fce6ff102ec953fb838d716499aac78811380c442a7869666525d7",
+  "image": "ornate-window-timber-twelve.png",
+  "image_sha256": "526c99081bfaeebee67b03f1aa085abbf1992cbaf27049780704a3dc31ef2026",
+  "duration_ms": 22.046800000000076
+}

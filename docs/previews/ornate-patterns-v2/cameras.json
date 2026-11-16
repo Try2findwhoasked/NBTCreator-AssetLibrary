@@ -1,0 +1,520 @@
+[
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      51.14263943024864,
+      38.11749088896253,
+      51.902964457337504
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-rosette-eight",
+    "role": "八瓣花章浮雕",
+    "target": [
+      15.5,
+      15.5,
+      1.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      82.45027627090113,
+      57.724877520210825,
+      42.56379928349983
+    ],
+    "fov": 42,
+    "id": "ornate-floor-rosette-eight",
+    "role": "八瓣花章浮雕 · 齐平镶地",
+    "target": [
+      63.5,
+      0.5,
+      15.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      138.32063419784788,
+      -44.76034874876354,
+      53.80383526921585
+    ],
+    "fov": 42,
+    "id": "ornate-ceiling-rosette-eight",
+    "role": "八瓣花章浮雕 · 顶部花章",
+    "target": [
+      111.5,
+      2.0,
+      15.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      195.18887455077584,
+      38.14682997366528,
+      52.46899505255989
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-interlace-knot",
+    "role": "连环交织结纹",
+    "target": [
+      159.5,
+      15.5,
+      1.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      34.45027627090112,
+      57.724877520210825,
+      90.56379928349983
+    ],
+    "fov": 42,
+    "id": "ornate-floor-interlace-knot",
+    "role": "连环交织结纹 · 齐平镶地",
+    "target": [
+      15.5,
+      0.5,
+      63.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      99.18887455077584,
+      38.14682997366528,
+      100.46899505255989
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-fan-sunburst",
+    "role": "扇形日轮饰板",
+    "target": [
+      63.5,
+      15.5,
+      49.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      147.18887455077584,
+      38.14682997366528,
+      100.46899505255989
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-scroll-leaf",
+    "role": "对称卷叶浮雕",
+    "target": [
+      111.5,
+      15.5,
+      49.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      186.84942770846976,
+      23.854927746728293,
+      88.05903066738865
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-palmette-frieze",
+    "role": "棕叶连续饰带",
+    "target": [
+      159.5,
+      6.5,
+      49.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      42.26434555479238,
+      22.48365641296556,
+      135.22344675583392
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-meander-frieze",
+    "role": "回环折线边带",
+    "target": [
+      15.5,
+      5.5,
+      97.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      99.18887455077584,
+      38.14682997366528,
+      148.46899505255988
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-star-eight",
+    "role": "八向星章镶饰",
+    "target": [
+      63.5,
+      15.5,
+      97.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      130.45027627090113,
+      57.724877520210825,
+      138.56379928349983
+    ],
+    "fov": 42,
+    "id": "ornate-floor-star-eight",
+    "role": "八向星章镶饰 · 齐平镶地",
+    "target": [
+      111.5,
+      0.5,
+      111.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      195.18887455077584,
+      38.14682997366528,
+      148.46899505255988
+    ],
+    "fov": 42,
+    "id": "ornate-pattern-coffer-rosette",
+    "role": "花环凹格章纹",
+    "target": [
+      159.5,
+      15.5,
+      97.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      34.45027627090112,
+      57.724877520210825,
+      186.56379928349983
+    ],
+    "fov": 42,
+    "id": "ornate-floor-coffer-rosette",
+    "role": "花环凹格章纹 · 齐平镶地",
+    "target": [
+      15.5,
+      0.5,
+      159.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      90.35542553975117,
+      -45.32100560232017,
+      197.85352245480692
+    ],
+    "fov": 42,
+    "id": "ornate-ceiling-coffer-rosette",
+    "role": "花环凹格章纹 · 顶部花章",
+    "target": [
+      63.5,
+      1.5,
+      159.5
+    ]
+  }
+]

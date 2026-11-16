@@ -1,0 +1,613 @@
+{
+  "browser_version": "157.0.4341.60",
+  "cameras_sha256": "b092d326dd0aa2911043741d89489531b7fe7763ad98e3da6da1db66ed8e6af0",
+  "cleanup": {
+    "browser_closed": true,
+    "server_closed": true
+  },
+  "duration_ms": 1468.3731,
+  "format_version": 1,
+  "geometry_sha256": "4e56a15373665f1cfd53a04c7b9da5d0d10b67aff66f945a5e78925ab848697d",
+  "height": 960,
+  "images": [
+    {
+      "duration_ms": 36.259900000000016,
+      "image": "ornate-window-timber-four.png",
+      "mesh_builds": 2,
+      "metadata": "ornate-window-timber-four.json",
+      "rendered_frames": 2,
+      "sha256": "a4c0dac7dd41bf82fa0e206682918b83f0e1aa997219fc5ab8158a82a591cf61"
+    },
+    {
+      "duration_ms": 22.046800000000076,
+      "image": "ornate-window-timber-twelve.png",
+      "mesh_builds": 3,
+      "metadata": "ornate-window-timber-twelve.json",
+      "rendered_frames": 3,
+      "sha256": "526c99081bfaeebee67b03f1aa085abbf1992cbaf27049780704a3dc31ef2026"
+    },
+    {
+      "duration_ms": 22.269399999999905,
+      "image": "ornate-window-timber-sixteen.png",
+      "mesh_builds": 4,
+      "metadata": "ornate-window-timber-sixteen.json",
+      "rendered_frames": 4,
+      "sha256": "3704de59e8ee4d5d8042d2c020d932ed9bf081b86d683935117f8bacfd0170d5"
+    },
+    {
+      "duration_ms": 25.282400000000052,
+      "image": "ornate-window-classical-cornice.png",
+      "mesh_builds": 5,
+      "metadata": "ornate-window-classical-cornice.json",
+      "rendered_frames": 5,
+      "sha256": "f0e32d4e6427b6aa6a98c4070170489380a983784babed0a71ae0c7135b7e00f"
+    },
+    {
+      "duration_ms": 24.968200000000024,
+      "image": "ornate-window-classical-pediment.png",
+      "mesh_builds": 6,
+      "metadata": "ornate-window-classical-pediment.json",
+      "rendered_frames": 6,
+      "sha256": "edcccce4214812d5dfaeafadf40976abe2e8fa05811cba585f813a363a809fab"
+    },
+    {
+      "duration_ms": 28.47790000000009,
+      "image": "ornate-window-classical-divided.png",
+      "mesh_builds": 7,
+      "metadata": "ornate-window-classical-divided.json",
+      "rendered_frames": 7,
+      "sha256": "a735496ffc3908328883b7f56214e99b6d053b2a2818ba2bca5d66b8d8b81955"
+    },
+    {
+      "duration_ms": 24.958699999999908,
+      "image": "ornate-window-round-single.png",
+      "mesh_builds": 8,
+      "metadata": "ornate-window-round-single.json",
+      "rendered_frames": 8,
+      "sha256": "290cb564a37d9f793180c117689698d109e7a6398eac639f46b5fac36e9a205a"
+    },
+    {
+      "duration_ms": 26.120499999999993,
+      "image": "ornate-window-round-twin.png",
+      "mesh_builds": 9,
+      "metadata": "ornate-window-round-twin.json",
+      "rendered_frames": 9,
+      "sha256": "ae81843fbd697e88b9677bb23df2cf4c48ff67cf684aa55896487f1fc50a3154"
+    },
+    {
+      "duration_ms": 28.1404,
+      "image": "ornate-window-gothic-clear.png",
+      "mesh_builds": 10,
+      "metadata": "ornate-window-gothic-clear.json",
+      "rendered_frames": 10,
+      "sha256": "3540e56a9429eec2b51ad421a91775bbc2c5187842d50cef303cfbc4caa8387b"
+    },
+    {
+      "duration_ms": 34.03309999999988,
+      "image": "ornate-window-gothic-lapis.png",
+      "mesh_builds": 11,
+      "metadata": "ornate-window-gothic-lapis.json",
+      "rendered_frames": 11,
+      "sha256": "3ab436f86a2b0237ec1163072155aba47dd638182dad1e96785a7b3809263ded"
+    },
+    {
+      "duration_ms": 33.143400000000156,
+      "image": "ornate-window-gothic-gilded.png",
+      "mesh_builds": 12,
+      "metadata": "ornate-window-gothic-gilded.json",
+      "rendered_frames": 12,
+      "sha256": "b54c30647d1a29868855156001537fd24d4d646d568fa70008e5ab661f9cf5c0"
+    }
+  ],
+  "initialization_ms": 305.80000000447035,
+  "page_errors": [],
+  "pixel_ratio": 1,
+  "publication": {
+    "images_and_geometry_unchanged": true,
+    "original_render_manifest_sha256": "de5a3c6d4be27fb92bdc862c82597aafe273af575f57983ac36f1cb5bca8e55f",
+    "original_snapshot_sha256": "94a974f4b7fce6ff102ec953fb838d716499aac78811380c442a7869666525d7",
+    "source_path_base": "manifest_directory",
+    "source_path_rebased": true
+  },
+  "quality": "balanced",
+  "resource_errors": [],
+  "scope": "Texture preview only; no collision, runtime, lighting or visual-design certification",
+  "snapshot_file": "snapshot.json",
+  "snapshot_sha256": "7d5dc04519281ff1fc936366c096bde6f3e6eca6f6cb6e97e6cac054cc2116d1",
+  "source": "../collection.master.json.gz",
+  "source_sha256": "d94c520f1ec466098f4cdf9acd2dd84a5e89c54dd7a1d260fd618e5075c3fcf8",
+  "status": "complete",
+  "views": [
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 40,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        -3.19601999820651,
+        6.293748155094338,
+        -12.35966122602427
+      ],
+      "fov": 42,
+      "id": "ornate-window-timber-four",
+      "layer": "all",
+      "lighting": "day",
+      "role": "四格木窗与前挑窗台",
+      "target": [
+        3.5,
+        3.5,
+        2
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 40,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 80,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        34.41266277381542,
+        10.917303689495725,
+        -20.704617951321314
+      ],
+      "fov": 42,
+      "id": "ornate-window-timber-twelve",
+      "layer": "all",
+      "lighting": "day",
+      "role": "十二格上下木窗",
+      "target": [
+        45,
+        6.5,
+        2
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 80,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 120,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        74.70043634801758,
+        11.423075079296893,
+        -23.30424591066935
+      ],
+      "fov": 42,
+      "id": "ornate-window-timber-sixteen",
+      "layer": "all",
+      "lighting": "day",
+      "role": "十六格高窗与双层窗扇",
+      "target": [
+        86.5,
+        6.5,
+        2
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 120,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 160,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        110.80896890749065,
+        17.046693286156152,
+        -31.649524767816963
+      ],
+      "fov": 42,
+      "id": "ornate-window-classical-cornice",
+      "layer": "all",
+      "lighting": "day",
+      "role": "齿饰檐口古典窗套",
+      "target": [
+        126.5,
+        10.5,
+        2
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 40,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 80,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        -10.800419928040672,
+        19.218170834206987,
+        4.899129736595285
+      ],
+      "fov": 42,
+      "id": "ornate-window-classical-pediment",
+      "layer": "all",
+      "lighting": "day",
+      "role": "三角山花与线脚窗套",
+      "target": [
+        6.5,
+        12,
+        42
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 40,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 80,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 80,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        27.26967584732077,
+        23.357825835270624,
+        -3.528577070081866
+      ],
+      "fov": 42,
+      "id": "ornate-window-classical-divided",
+      "layer": "all",
+      "lighting": "day",
+      "role": "山花分格宫廷窗",
+      "target": [
+        48.5,
+        14.5,
+        42
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 80,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 120,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 80,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        70.09757867759268,
+        18.760728384424162,
+        4.680387040474386
+      ],
+      "fov": 42,
+      "id": "ornate-window-round-single",
+      "layer": "all",
+      "lighting": "day",
+      "role": "圆拱券与楔石窗",
+      "target": [
+        87.5,
+        11.5,
+        42
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 120,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 160,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 40,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 80,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        110.09757867759268,
+        18.760728384424162,
+        4.680387040474386
+      ],
+      "fov": 42,
+      "id": "ornate-window-round-twin",
+      "layer": "all",
+      "lighting": "day",
+      "role": "双光圆拱石窗",
+      "target": [
+        127.5,
+        11.5,
+        42
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 40,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 80,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 120,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        -10.850660159698108,
+        21.490807866663573,
+        38.35786845058922
+      ],
+      "fov": 42,
+      "id": "ornate-window-gothic-clear",
+      "layer": "all",
+      "lighting": "day",
+      "role": "玫瑰与双尖拱窗棂",
+      "target": [
+        9.5,
+        13,
+        82
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 40,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 80,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 80,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 120,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        27.586314153170242,
+        24.977391903545776,
+        31.21693520658207
+      ],
+      "fov": 42,
+      "id": "ornate-window-gothic-lapis",
+      "layer": "all",
+      "lighting": "day",
+      "role": "蓝金彩玻玫瑰尖拱窗",
+      "target": [
+        51.5,
+        15,
+        82.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 80,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 120,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 80,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 120,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        67.58631415317024,
+        24.977391903545776,
+        31.21693520658207
+      ],
+      "fov": 42,
+      "id": "ornate-window-gothic-gilded",
+      "layer": "all",
+      "lighting": "day",
+      "role": "黑金玫瑰宫廷尖拱窗",
+      "target": [
+        91.5,
+        15,
+        82.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "level": "warning",
+      "text": "THREE.WebGLProgram: Program Info Log: (105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value"
+    }
+  ],
+  "width": 960
+}

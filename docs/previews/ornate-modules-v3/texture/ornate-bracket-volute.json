@@ -1,0 +1,114 @@
+{
+  "source_sha256": "383cc887baca1dea6470e5396a94bb229a05685f8a1d7d98e9b93da278eebcc6",
+  "geometry_sha256": "f1e9be7caaa18da4297eb824217349548169d1d92253312e5186dcc7a1239690",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      70.78376007080078,
+      14.333064079284668,
+      221.755615234375
+    ],
+    "target": [
+      54.5,
+      4,
+      198.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 192,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 240,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 551,
+  "interaction_max_fps": 60,
+  "mesh_builds": 19,
+  "rendered_frames": 19,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-bracket-volute",
+  "role": "涡卷柱头承托块",
+  "requested_view": {
+    "id": "ornate-bracket-volute",
+    "role": "涡卷柱头承托块",
+    "eye": [
+      70.7837618553733,
+      14.333068518191164,
+      221.75562203601467
+    ],
+    "target": [
+      54.5,
+      4,
+      198.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 240,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "dd7b15b605a33dbf5f40aa30c46b2299dbfabb1deb080f389d92fdc8da1db9bd",
+  "image": "ornate-bracket-volute.png",
+  "image_sha256": "742e9868f7ebe60a3c7cd552c33abba05f708098abbbb902bb9616b204685fa9",
+  "duration_ms": 20.001400000000103
+}

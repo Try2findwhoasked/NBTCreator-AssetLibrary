@@ -1,0 +1,769 @@
+{
+  "browser_version": "157.0.4341.60",
+  "cameras_sha256": "40ef394f894efe7d322fa93ec0895ca4174e7051fccb29a3e62777b66c4172d9",
+  "cleanup": {
+    "browser_closed": true,
+    "server_closed": true
+  },
+  "duration_ms": 1976.7563999999998,
+  "format_version": 1,
+  "geometry_sha256": "5e90eb77219915f86a1a73c19654db1e38695ad0f3baebab04fd3b7a44393e26",
+  "height": 960,
+  "images": [
+    {
+      "duration_ms": 60.84130000000005,
+      "image": "ornate-pattern-rosette-eight.png",
+      "mesh_builds": 2,
+      "metadata": "ornate-pattern-rosette-eight.json",
+      "rendered_frames": 2,
+      "sha256": "1792e067c70b70f43cafcf0df8d340c170b38348e26d4ab1475d26f7dba6c821"
+    },
+    {
+      "duration_ms": 47.33259999999996,
+      "image": "ornate-floor-rosette-eight.png",
+      "mesh_builds": 3,
+      "metadata": "ornate-floor-rosette-eight.json",
+      "rendered_frames": 3,
+      "sha256": "3cafb94a703841832c216317b843f03c56827c077eb92249e38b8be1fec1fc69"
+    },
+    {
+      "duration_ms": 44.68399999999997,
+      "image": "ornate-ceiling-rosette-eight.png",
+      "mesh_builds": 4,
+      "metadata": "ornate-ceiling-rosette-eight.json",
+      "rendered_frames": 4,
+      "sha256": "ca4856b854d4ebecff7b72c7b74ec56a5594d3194bbb269aea243981ac2cf580"
+    },
+    {
+      "duration_ms": 47.58249999999998,
+      "image": "ornate-pattern-interlace-knot.png",
+      "mesh_builds": 5,
+      "metadata": "ornate-pattern-interlace-knot.json",
+      "rendered_frames": 5,
+      "sha256": "7f7208232ff233ce3d7eb83c02216c43188dea49c2915078121470c516e1a36d"
+    },
+    {
+      "duration_ms": 43.97709999999984,
+      "image": "ornate-floor-interlace-knot.png",
+      "mesh_builds": 6,
+      "metadata": "ornate-floor-interlace-knot.json",
+      "rendered_frames": 6,
+      "sha256": "96554d89cf93f46d3972bd9e85fdf767b484d55459d3bbd81290c5705e7e71a3"
+    },
+    {
+      "duration_ms": 49.386600000000044,
+      "image": "ornate-pattern-fan-sunburst.png",
+      "mesh_builds": 7,
+      "metadata": "ornate-pattern-fan-sunburst.json",
+      "rendered_frames": 7,
+      "sha256": "86a7ea92b75ec07aca036105ffc5c4850aa30a7cb91cc160dcb0fd2aeab83eed"
+    },
+    {
+      "duration_ms": 40.32569999999987,
+      "image": "ornate-pattern-scroll-leaf.png",
+      "mesh_builds": 8,
+      "metadata": "ornate-pattern-scroll-leaf.json",
+      "rendered_frames": 8,
+      "sha256": "9ce9348cc8639ea072b71b8e52ab7bb83ac05086805f6ebdd7f0147faa4ed6f1"
+    },
+    {
+      "duration_ms": 26.962400000000116,
+      "image": "ornate-pattern-palmette-frieze.png",
+      "mesh_builds": 9,
+      "metadata": "ornate-pattern-palmette-frieze.json",
+      "rendered_frames": 9,
+      "sha256": "2500f733e0a34679329daf50a03b0376ab0a2743871a4a6998489bd61d00235f"
+    },
+    {
+      "duration_ms": 29.52559999999994,
+      "image": "ornate-pattern-meander-frieze.png",
+      "mesh_builds": 10,
+      "metadata": "ornate-pattern-meander-frieze.json",
+      "rendered_frames": 10,
+      "sha256": "3f115208049e18e53c01819ebd5cb8f75ee185114e3d87f6807420c3364a8c4f"
+    },
+    {
+      "duration_ms": 39.55619999999999,
+      "image": "ornate-pattern-star-eight.png",
+      "mesh_builds": 11,
+      "metadata": "ornate-pattern-star-eight.json",
+      "rendered_frames": 11,
+      "sha256": "8a8bbeb5598b32c2391436119083a8cb183a6d976c51e1d7b9a7617f37248efb"
+    },
+    {
+      "duration_ms": 39.11550000000011,
+      "image": "ornate-floor-star-eight.png",
+      "mesh_builds": 12,
+      "metadata": "ornate-floor-star-eight.json",
+      "rendered_frames": 12,
+      "sha256": "af656d2d593bb61d141e7aa8c618e7ba391421ee7857339487bbc9cf9dd27dc3"
+    },
+    {
+      "duration_ms": 39.89330000000018,
+      "image": "ornate-pattern-coffer-rosette.png",
+      "mesh_builds": 13,
+      "metadata": "ornate-pattern-coffer-rosette.json",
+      "rendered_frames": 13,
+      "sha256": "789058f338e07ca9a2f11c675c4e05f627754ac3de075e7871af93486e667c71"
+    },
+    {
+      "duration_ms": 41.32280000000014,
+      "image": "ornate-floor-coffer-rosette.png",
+      "mesh_builds": 14,
+      "metadata": "ornate-floor-coffer-rosette.json",
+      "rendered_frames": 14,
+      "sha256": "82c3ff84e2feaf7af4ab0ea5f5ae591e2bc4ebbfb4b584056402c343aa39f89b"
+    },
+    {
+      "duration_ms": 39.943500000000085,
+      "image": "ornate-ceiling-coffer-rosette.png",
+      "mesh_builds": 15,
+      "metadata": "ornate-ceiling-coffer-rosette.json",
+      "rendered_frames": 15,
+      "sha256": "0bcf142847eb59a352f894fce1a0e6580528d79ea33db40679283e45cd48fa49"
+    }
+  ],
+  "initialization_ms": 446.59999999403954,
+  "page_errors": [],
+  "pixel_ratio": 1,
+  "publication": {
+    "images_and_geometry_unchanged": true,
+    "original_render_manifest_sha256": "c3bf3fccfda87b8191600fa1e4dae4f94489cf209082237db960915232598559",
+    "original_snapshot_sha256": "797ec68802b3601ea21020575afa13c258db9051aea08307d7f32cee306385d5",
+    "source_path_base": "manifest_directory",
+    "source_path_rebased": true
+  },
+  "quality": "balanced",
+  "resource_errors": [],
+  "scope": "Texture preview only; no collision, runtime, lighting or visual-design certification",
+  "snapshot_file": "snapshot.json",
+  "snapshot_sha256": "de35e55ba979c06774813212ab8d41efac1045404d1f26198c89cfe882f7fba4",
+  "source": "../collection.master.json.gz",
+  "source_sha256": "44d782effc36de671d53f189c11b595e43c71e2c26c0967b07905dba104ea6d0",
+  "status": "complete",
+  "views": [
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        51.14263943024864,
+        38.11749088896253,
+        51.902964457337504
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-rosette-eight",
+      "layer": "all",
+      "lighting": "day",
+      "role": "八瓣花章浮雕",
+      "target": [
+        15.5,
+        15.5,
+        1
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        82.45027627090113,
+        57.724877520210825,
+        42.56379928349983
+      ],
+      "fov": 42,
+      "id": "ornate-floor-rosette-eight",
+      "layer": "all",
+      "lighting": "day",
+      "role": "八瓣花章浮雕 · 齐平镶地",
+      "target": [
+        63.5,
+        0.5,
+        15.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        138.32063419784788,
+        -44.76034874876354,
+        53.80383526921585
+      ],
+      "fov": 42,
+      "id": "ornate-ceiling-rosette-eight",
+      "layer": "all",
+      "lighting": "day",
+      "role": "八瓣花章浮雕 · 顶部花章",
+      "target": [
+        111.5,
+        2,
+        15.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        195.18887455077584,
+        38.14682997366528,
+        52.46899505255989
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-interlace-knot",
+      "layer": "all",
+      "lighting": "day",
+      "role": "连环交织结纹",
+      "target": [
+        159.5,
+        15.5,
+        1.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        34.45027627090112,
+        57.724877520210825,
+        90.56379928349983
+      ],
+      "fov": 42,
+      "id": "ornate-floor-interlace-knot",
+      "layer": "all",
+      "lighting": "day",
+      "role": "连环交织结纹 · 齐平镶地",
+      "target": [
+        15.5,
+        0.5,
+        63.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        99.18887455077584,
+        38.14682997366528,
+        100.46899505255989
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-fan-sunburst",
+      "layer": "all",
+      "lighting": "day",
+      "role": "扇形日轮饰板",
+      "target": [
+        63.5,
+        15.5,
+        49.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        147.18887455077584,
+        38.14682997366528,
+        100.46899505255989
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-scroll-leaf",
+      "layer": "all",
+      "lighting": "day",
+      "role": "对称卷叶浮雕",
+      "target": [
+        111.5,
+        15.5,
+        49.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        186.84942770846976,
+        23.854927746728293,
+        88.05903066738865
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-palmette-frieze",
+      "layer": "all",
+      "lighting": "day",
+      "role": "棕叶连续饰带",
+      "target": [
+        159.5,
+        6.5,
+        49
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        42.26434555479238,
+        22.48365641296556,
+        135.22344675583392
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-meander-frieze",
+      "layer": "all",
+      "lighting": "day",
+      "role": "回环折线边带",
+      "target": [
+        15.5,
+        5.5,
+        97
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        99.18887455077584,
+        38.14682997366528,
+        148.46899505255988
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-star-eight",
+      "layer": "all",
+      "lighting": "day",
+      "role": "八向星章镶饰",
+      "target": [
+        63.5,
+        15.5,
+        97.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        130.45027627090113,
+        57.724877520210825,
+        138.56379928349983
+      ],
+      "fov": 42,
+      "id": "ornate-floor-star-eight",
+      "layer": "all",
+      "lighting": "day",
+      "role": "八向星章镶饰 · 齐平镶地",
+      "target": [
+        111.5,
+        0.5,
+        111.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 192,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 96,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        195.18887455077584,
+        38.14682997366528,
+        148.46899505255988
+      ],
+      "fov": 42,
+      "id": "ornate-pattern-coffer-rosette",
+      "layer": "all",
+      "lighting": "day",
+      "role": "花环凹格章纹",
+      "target": [
+        159.5,
+        15.5,
+        97.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 0,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        34.45027627090112,
+        57.724877520210825,
+        186.56379928349983
+      ],
+      "fov": 42,
+      "id": "ornate-floor-coffer-rosette",
+      "layer": "all",
+      "lighting": "day",
+      "role": "花环凹格章纹 · 齐平镶地",
+      "target": [
+        15.5,
+        0.5,
+        159.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "cuts": [
+        {
+          "axis": "x",
+          "position": 48,
+          "removed_side": "below"
+        },
+        {
+          "axis": "x",
+          "position": 96,
+          "removed_side": "above"
+        },
+        {
+          "axis": "z",
+          "position": 144,
+          "removed_side": "below"
+        },
+        {
+          "axis": "z",
+          "position": 192,
+          "removed_side": "above"
+        }
+      ],
+      "eye": [
+        90.35542553975117,
+        -45.32100560232017,
+        197.85352245480692
+      ],
+      "fov": 42,
+      "id": "ornate-ceiling-coffer-rosette",
+      "layer": "all",
+      "lighting": "day",
+      "role": "花环凹格章纹 · 顶部花章",
+      "target": [
+        63.5,
+        1.5,
+        159.5
+      ],
+      "up": [
+        0,
+        1,
+        0
+      ]
+    }
+  ],
+  "warnings": [
+    {
+      "level": "warning",
+      "text": "THREE.WebGLProgram: Program Info Log: (105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value\n(105,12-86): warning X3595: gradient instruction used in a loop with varying iteration; partial derivatives may have undefined value"
+    }
+  ],
+  "width": 960
+}

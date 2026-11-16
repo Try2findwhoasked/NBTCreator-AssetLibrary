@@ -1,0 +1,114 @@
+{
+  "source_sha256": "433d6307afed0388d8e0c64cdacdcfe42df0804e8ad592925840c31349ae0f8f",
+  "geometry_sha256": "3744f5b0a74de45c073a485a16c6ce953ea47e568b787c45121b73e95e47c3d2",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      132.9075469970703,
+      -35.30982208251953,
+      94.92945098876953
+    ],
+    "target": [
+      109.5,
+      5.5,
+      61.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1489,
+  "interaction_max_fps": 60,
+  "mesh_builds": 8,
+  "rendered_frames": 8,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-ceiling-coffers",
+  "role": "白金凹格宫廷藻井",
+  "requested_view": {
+    "id": "ornate-ceiling-coffers",
+    "role": "白金凹格宫廷藻井",
+    "eye": [
+      132.90754993030367,
+      -35.309817919328786,
+      94.92944577567971
+    ],
+    "target": [
+      109.5,
+      5.5,
+      61.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "2cf7792e41f730c42f19a27a0875568f7feeaa4dd23e651fb6fc4496cc488f45",
+  "image": "ornate-ceiling-coffers.png",
+  "image_sha256": "283c78804d2cf9988fc7c2bfb6884f8bd6623f5bc224d72d36080c9e34730b32",
+  "duration_ms": 43.09030000000007
+}

@@ -1,0 +1,114 @@
+{
+  "source_sha256": "44d782effc36de671d53f189c11b595e43c71e2c26c0967b07905dba104ea6d0",
+  "geometry_sha256": "5e90eb77219915f86a1a73c19654db1e38695ad0f3baebab04fd3b7a44393e26",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      186.84942626953125,
+      23.85492515563965,
+      88.05902099609375
+    ],
+    "target": [
+      159.5,
+      6.5,
+      49
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 192,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 647,
+  "interaction_max_fps": 60,
+  "mesh_builds": 9,
+  "rendered_frames": 9,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-pattern-palmette-frieze",
+  "role": "棕叶连续饰带",
+  "requested_view": {
+    "id": "ornate-pattern-palmette-frieze",
+    "role": "棕叶连续饰带",
+    "eye": [
+      186.84942770846976,
+      23.854927746728293,
+      88.05903066738865
+    ],
+    "target": [
+      159.5,
+      6.5,
+      49
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "797ec68802b3601ea21020575afa13c258db9051aea08307d7f32cee306385d5",
+  "image": "ornate-pattern-palmette-frieze.png",
+  "image_sha256": "2500f733e0a34679329daf50a03b0376ab0a2743871a4a6998489bd61d00235f",
+  "duration_ms": 26.962400000000116
+}

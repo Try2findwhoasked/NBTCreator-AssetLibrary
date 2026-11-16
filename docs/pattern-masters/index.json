@@ -1,0 +1,62 @@
+{
+  "generated_by": "tools/build_ornate_patterns.py",
+  "masters": [
+    {
+      "id": "coffer-rosette",
+      "png": "coffer-rosette.png",
+      "png_sha256": "0f35c94440f5157feee224154c8df0fb7b695f327d8d49645eb288ad1dd11b2d",
+      "svg": "coffer-rosette.svg",
+      "svg_sha256": "ece9bc063ff0ff2094f8c78c52cc6d59cd943f4e07585e6079e7ed9234e171b0"
+    },
+    {
+      "id": "fan-sunburst",
+      "png": "fan-sunburst.png",
+      "png_sha256": "4d62bc58657275ce4589a13aa74c8bdbf39cf901d5bae826f96d4ecd3e646b7e",
+      "svg": "fan-sunburst.svg",
+      "svg_sha256": "aa9e30f21351e8097a9906b5c4248b8c0b8a10095dac17c832e7a63536e08b4d"
+    },
+    {
+      "id": "interlace-knot",
+      "png": "interlace-knot.png",
+      "png_sha256": "c1bd9a69cce7bf745a74ea1ad1559af3da66113bcf10390518e26ddf37a59ed7",
+      "svg": "interlace-knot.svg",
+      "svg_sha256": "d78b331b12452ec9c21e25518f5a90b015038a90e93bd9815dfa494c0cb8759c"
+    },
+    {
+      "id": "meander-frieze",
+      "png": "meander-frieze.png",
+      "png_sha256": "05da6206df127abfc9dffca04b287ccda85e49730260e0a95fd73713b7ff019d",
+      "svg": "meander-frieze.svg",
+      "svg_sha256": "a05d0e3f6a9436d19e3250928bfe19867fe7db324fbf38e5758cf5e50664eb88"
+    },
+    {
+      "id": "palmette-frieze",
+      "png": "palmette-frieze.png",
+      "png_sha256": "95638779749940efc1744741147976a029f4d95cc25a1ed9700cb018f845872e",
+      "svg": "palmette-frieze.svg",
+      "svg_sha256": "9682bbd51c6f00b22799cbf66e2dc13622c4368072436f3c20e8882d6f2522a5"
+    },
+    {
+      "id": "rosette-eight",
+      "png": "rosette-eight.png",
+      "png_sha256": "dc498b9d45256ee920979fa6ec49b902b9266e523830f35e55c0dc85d44f6f5a",
+      "svg": "rosette-eight.svg",
+      "svg_sha256": "8288b7d878164a11751efe5811e4c4fda8098791f6e3cb21763546ae72a1847f"
+    },
+    {
+      "id": "scroll-leaf",
+      "png": "scroll-leaf.png",
+      "png_sha256": "23e67e7fc4a912fc99273d9da30f4e272c4c9602ad6537024b852a9c8e4986ee",
+      "svg": "scroll-leaf.svg",
+      "svg_sha256": "c8c3c5264e3495401e57a445da9555f1e4e8c45798a40c13a8679c1dabc2fe74"
+    },
+    {
+      "id": "star-eight",
+      "png": "star-eight.png",
+      "png_sha256": "50e284b7637a8f6cbc4bb9bfc3e539aab5c5fdff71841c5704cab8b34d33c8ad",
+      "svg": "star-eight.svg",
+      "svg_sha256": "faefd410e03f49abe2a10dea8091a89e3bb72162f264b23c57f940809cd2ed16"
+    }
+  ],
+  "original": true
+}

@@ -1,0 +1,114 @@
+{
+  "source_sha256": "5de3cc0f44c428643b61deed972eaf7daa7135bfd6159e6b73777bec92494cd7",
+  "geometry_sha256": "bd65dd4c8bc73754cec4abc58b047e7fd236f1557d63e05396f1d59856caca60",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      42.32588195800781,
+      22.522705078125,
+      135.8113250732422
+    ],
+    "target": [
+      15.5,
+      5.5,
+      97.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 0,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 144,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 651,
+  "interaction_max_fps": 60,
+  "mesh_builds": 10,
+  "rendered_frames": 10,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-pattern-meander-frieze",
+  "role": "回环折线边带",
+  "requested_view": {
+    "id": "ornate-pattern-meander-frieze",
+    "role": "回环折线边带",
+    "eye": [
+      42.32588701464752,
+      22.5227083302707,
+      135.81133706905803
+    ],
+    "target": [
+      15.5,
+      5.5,
+      97.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "cc6bb86c8f2c1c90b2db011f6f26722480248029b828e590b2bd48fb707667bd",
+  "image": "ornate-pattern-meander-frieze.png",
+  "image_sha256": "969af16584d0932228871eb7985362a8f5d5705efac97bd98a15d07b3b64acbd",
+  "duration_ms": 25.925500000000056
+}

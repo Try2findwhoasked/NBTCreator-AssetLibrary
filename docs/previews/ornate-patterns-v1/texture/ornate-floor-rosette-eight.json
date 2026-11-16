@@ -1,0 +1,114 @@
+{
+  "source_sha256": "5de3cc0f44c428643b61deed972eaf7daa7135bfd6159e6b73777bec92494cd7",
+  "geometry_sha256": "bd65dd4c8bc73754cec4abc58b047e7fd236f1557d63e05396f1d59856caca60",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      82.45027923583984,
+      57.72487258911133,
+      42.56380081176758
+    ],
+    "target": [
+      63.5,
+      0.5,
+      15.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 0,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 961,
+  "interaction_max_fps": 60,
+  "mesh_builds": 3,
+  "rendered_frames": 3,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-floor-rosette-eight",
+  "role": "八瓣花章浮雕 · 齐平镶地",
+  "requested_view": {
+    "id": "ornate-floor-rosette-eight",
+    "role": "八瓣花章浮雕 · 齐平镶地",
+    "eye": [
+      82.45027627090113,
+      57.724877520210825,
+      42.56379928349983
+    ],
+    "target": [
+      63.5,
+      0.5,
+      15.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "cc6bb86c8f2c1c90b2db011f6f26722480248029b828e590b2bd48fb707667bd",
+  "image": "ornate-floor-rosette-eight.png",
+  "image_sha256": "3cafb94a703841832c216317b843f03c56827c077eb92249e38b8be1fec1fc69",
+  "duration_ms": 47.14529999999991
+}

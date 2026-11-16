@@ -1,0 +1,361 @@
+{
+  "engine": "minecraft-nbt-modeler",
+  "engine_revision_sha256": "4029bda4588052c8add035bcd35ec55f167fc18525a0a030abccc32307c4132a",
+  "nbt_exported": false,
+  "windows": [
+    {
+      "blocks": 109,
+      "content_sha256": "ec9d00110325b8087ec1e5ccb672190bee3a1d7a6bd8733037e85beabab5c295",
+      "id": "ornate-window-timber-four",
+      "name": "四格木窗与前挑窗台",
+      "parameters": {
+        "accent": "spruce_planks",
+        "form": {
+          "panes": [
+            2,
+            2
+          ],
+          "profile": "sash_window",
+          "recess": 2,
+          "sill_material": "spruce_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "stripped_spruce_log",
+        "name": "四格木窗与前挑窗台",
+        "size": [
+          7,
+          7,
+          4
+        ]
+      },
+      "size": [
+        7,
+        7,
+        4
+      ],
+      "source_sha256": "cf70cc286c3bff5a4cfa8e608fb27461914c610845613865881c7efd24edd5af"
+    },
+    {
+      "blocks": 232,
+      "content_sha256": "06feb5c93ba29e406cd0caaf53994b3a332fd2acb727b4dde9fc76c29f13cd0a",
+      "id": "ornate-window-timber-twelve",
+      "name": "十二格上下木窗",
+      "parameters": {
+        "accent": "dark_oak_planks",
+        "form": {
+          "panes": [
+            3,
+            4
+          ],
+          "profile": "sash_window",
+          "recess": 2,
+          "sill_material": "dark_oak_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "stripped_dark_oak_log",
+        "name": "十二格上下木窗",
+        "size": [
+          10,
+          13,
+          4
+        ]
+      },
+      "size": [
+        10,
+        13,
+        4
+      ],
+      "source_sha256": "673a1d09957765166125770ce5c5760ced7c8d7c004c1c143b64f4c08f3479b5"
+    },
+    {
+      "blocks": 289,
+      "content_sha256": "ecdd3e787bf21678a1d1d2ddc343f1dd607ecc84548254e9889d72aa10733e02",
+      "id": "ornate-window-timber-sixteen",
+      "name": "十六格高窗与双层窗扇",
+      "parameters": {
+        "accent": "dark_oak_planks",
+        "form": {
+          "panes": [
+            4,
+            4
+          ],
+          "profile": "sash_window",
+          "recess": 2,
+          "sill_material": "dark_oak_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "stripped_dark_oak_log",
+        "name": "十六格高窗与双层窗扇",
+        "size": [
+          13,
+          13,
+          4
+        ]
+      },
+      "size": [
+        13,
+        13,
+        4
+      ],
+      "source_sha256": "bbd8d4c5a080845ac3434d054f78beb0a44c730a42e95a966c4d11f305b2484e"
+    },
+    {
+      "blocks": 640,
+      "content_sha256": "b9f64b45e85b1af2d3beb3835cc1da4aaa54f65ffadb4ed835282619831db8cd",
+      "id": "ornate-window-classical-cornice",
+      "name": "齿饰檐口古典窗套",
+      "parameters": {
+        "accent": "cut_sandstone",
+        "form": {
+          "dentils": true,
+          "detail_material": "chiseled_sandstone",
+          "head": "cornice",
+          "profile": "classical_window",
+          "recess": 3,
+          "sill_material": "smooth_sandstone_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "smooth_sandstone",
+        "name": "齿饰檐口古典窗套",
+        "size": [
+          13,
+          21,
+          4
+        ]
+      },
+      "size": [
+        13,
+        21,
+        4
+      ],
+      "source_sha256": "f7081643504befa2c46cf91a2a2f312e2e656d1e5849ef494809700ea4cc6e8d"
+    },
+    {
+      "blocks": 700,
+      "content_sha256": "cba625b63025fceccd897496d58488191795a186b8ef2de85e782185e6299747",
+      "id": "ornate-window-classical-pediment",
+      "name": "三角山花与线脚窗套",
+      "parameters": {
+        "accent": "cut_sandstone",
+        "form": {
+          "dentils": true,
+          "detail_material": "chiseled_sandstone",
+          "head": "triangular",
+          "profile": "classical_window",
+          "recess": 3,
+          "sill_material": "smooth_sandstone_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "smooth_sandstone",
+        "name": "三角山花与线脚窗套",
+        "size": [
+          13,
+          24,
+          4
+        ]
+      },
+      "size": [
+        13,
+        24,
+        4
+      ],
+      "source_sha256": "e9e9449683d3875f814c54f4382a1f70560216e413038be3328a37a8c0971882"
+    },
+    {
+      "blocks": 1003,
+      "content_sha256": "58a93e7946c0cf2ae239da3a8bd0e77be86a43b64e50be896650c8a50141fc22",
+      "id": "ornate-window-classical-divided",
+      "name": "山花分格宫廷窗",
+      "parameters": {
+        "accent": "cut_sandstone",
+        "form": {
+          "bar_material": "dark_oak_planks",
+          "dentils": true,
+          "detail_material": "chiseled_sandstone",
+          "head": "triangular",
+          "panes": [
+            3,
+            4
+          ],
+          "profile": "classical_window",
+          "recess": 3,
+          "sill_material": "smooth_sandstone_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "smooth_sandstone",
+        "name": "山花分格宫廷窗",
+        "size": [
+          17,
+          29,
+          4
+        ]
+      },
+      "size": [
+        17,
+        29,
+        4
+      ],
+      "source_sha256": "786054f5d99f0d16d1d61a723b030c6e90b813ce0f8c8e19c33ac80da92dfd38"
+    },
+    {
+      "blocks": 708,
+      "content_sha256": "ab178fe1d594ee8301f02ed634c5d1383e1f8661d5d5464cd1d6b23fb8896bbd",
+      "id": "ornate-window-round-single",
+      "name": "圆拱券与楔石窗",
+      "parameters": {
+        "accent": "cut_sandstone",
+        "form": {
+          "border": 2,
+          "detail_material": "chiseled_sandstone",
+          "lights": 1,
+          "profile": "round_arch_window",
+          "recess": 3,
+          "sill_material": "smooth_sandstone_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "smooth_sandstone",
+        "name": "圆拱券与楔石窗",
+        "size": [
+          15,
+          23,
+          4
+        ]
+      },
+      "size": [
+        15,
+        23,
+        4
+      ],
+      "source_sha256": "debfdf880e08d59e645164230edcb81c29277492cf3e62444b57f56c6241af79"
+    },
+    {
+      "blocks": 708,
+      "content_sha256": "f681a2d99e65d5cb528b5a82d00d30e0b7191604a623dc068af68b343e3016e6",
+      "id": "ornate-window-round-twin",
+      "name": "双光圆拱石窗",
+      "parameters": {
+        "accent": "quartz_bricks",
+        "form": {
+          "border": 2,
+          "glass_palette": [
+            "light_blue_stained_glass",
+            "cyan_stained_glass"
+          ],
+          "lights": 2,
+          "profile": "round_arch_window",
+          "recess": 3,
+          "sill_material": "smooth_quartz_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "smooth_quartz",
+        "name": "双光圆拱石窗",
+        "size": [
+          15,
+          23,
+          4
+        ]
+      },
+      "size": [
+        15,
+        23,
+        4
+      ],
+      "source_sha256": "223fbab751876ce242b17fc884db598668882623e37a21873a437103f0457568"
+    },
+    {
+      "blocks": 906,
+      "content_sha256": "1fb13215c9097e9805a8b7bf9ce16c82bad243d10ecffc589d9c778c5ed531da",
+      "id": "ornate-window-gothic-clear",
+      "name": "玫瑰与双尖拱窗棂",
+      "parameters": {
+        "accent": "cut_sandstone",
+        "form": {
+          "glass_material": "glass",
+          "profile": "pointed_arch_window",
+          "recess": 2,
+          "sill_material": "smooth_sandstone_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "smooth_sandstone",
+        "name": "玫瑰与双尖拱窗棂",
+        "size": [
+          19,
+          27,
+          4
+        ]
+      },
+      "size": [
+        19,
+        27,
+        4
+      ],
+      "source_sha256": "860fcdcb0e4a8b7297442722f77ee7d5370dcdb80974b0e10e6bea9304404822"
+    },
+    {
+      "blocks": 1401,
+      "content_sha256": "d834c2f320dd21c569ce2ecdc5e494ef8182147c15b1a53a5ad61cb6884531ab",
+      "id": "ornate-window-gothic-lapis",
+      "name": "蓝金彩玻玫瑰尖拱窗",
+      "parameters": {
+        "accent": "quartz_bricks",
+        "form": {
+          "glass_palette": [
+            "blue_stained_glass",
+            "light_blue_stained_glass",
+            "yellow_stained_glass"
+          ],
+          "profile": "pointed_arch_window",
+          "recess": 3,
+          "sill_material": "smooth_quartz_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "smooth_quartz",
+        "name": "蓝金彩玻玫瑰尖拱窗",
+        "size": [
+          23,
+          31,
+          5
+        ]
+      },
+      "size": [
+        23,
+        31,
+        5
+      ],
+      "source_sha256": "5888d1b6af2dc535066d9a7b1dd486febc7cd1747701d538e5f8cc70969554f3"
+    },
+    {
+      "blocks": 1401,
+      "content_sha256": "e602c6c5a58b37f60c1a3c1e7969eafb393663ed2b5bf350796eafe07955bc0b",
+      "id": "ornate-window-gothic-gilded",
+      "name": "黑金玫瑰宫廷尖拱窗",
+      "parameters": {
+        "accent": "gold_block",
+        "form": {
+          "glass_palette": [
+            "blue_stained_glass",
+            "cyan_stained_glass",
+            "yellow_stained_glass"
+          ],
+          "profile": "pointed_arch_window",
+          "recess": 3,
+          "sill_material": "polished_blackstone_slab[type=top]"
+        },
+        "kind": "frame",
+        "material": "polished_blackstone_bricks",
+        "name": "黑金玫瑰宫廷尖拱窗",
+        "size": [
+          23,
+          31,
+          5
+        ]
+      },
+      "size": [
+        23,
+        31,
+        5
+      ],
+      "source_sha256": "ea5ed86d5233f62671e4ba3ca678c6cbd5f6c3c40ef286212ed380d5571009c2"
+    }
+  ]
+}

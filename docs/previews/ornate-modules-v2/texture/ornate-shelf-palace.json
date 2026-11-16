@@ -1,0 +1,114 @@
+{
+  "source_sha256": "2e0f123ce1ab9de3cdcbfb6bad8691d59c91124ade19bcfce2f2e8f8791a6e82",
+  "geometry_sha256": "edcac602f2ea613af9eee0fd410feac5f61b7b9c688b118aa18ec4f5bc9a96e9",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      85.65949249267578,
+      22.486827850341797,
+      68.59932708740234
+    ],
+    "target": [
+      103.5,
+      9.5,
+      99.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 144,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 903,
+  "interaction_max_fps": 60,
+  "mesh_builds": 12,
+  "rendered_frames": 12,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-shelf-palace",
+  "role": "镀金陈列书架",
+  "requested_view": {
+    "id": "ornate-shelf-palace",
+    "role": "镀金陈列书架",
+    "eye": [
+      85.6594893347355,
+      22.48682969253,
+      68.59932909478746
+    ],
+    "target": [
+      103.5,
+      9.5,
+      99.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "b59158f63d5e3ce799aa303045311ce1890cf688d5fcadac1dacac1e96ec5286",
+  "image": "ornate-shelf-palace.png",
+  "image_sha256": "b6ca5dd576eb3b55a46777648617a55e97a58cfe62f2727787e948f507be3fcd",
+  "duration_ms": 36.13689999999997
+}

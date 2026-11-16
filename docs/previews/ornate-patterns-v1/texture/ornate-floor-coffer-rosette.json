@@ -1,0 +1,114 @@
+{
+  "source_sha256": "5de3cc0f44c428643b61deed972eaf7daa7135bfd6159e6b73777bec92494cd7",
+  "geometry_sha256": "bd65dd4c8bc73754cec4abc58b047e7fd236f1557d63e05396f1d59856caca60",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      34.45027542114258,
+      57.724884033203125,
+      186.5637969970703
+    ],
+    "target": [
+      15.5,
+      0.5,
+      159.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 0,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 192,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 961,
+  "interaction_max_fps": 60,
+  "mesh_builds": 14,
+  "rendered_frames": 14,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-floor-coffer-rosette",
+  "role": "花环凹格章纹 · 齐平镶地",
+  "requested_view": {
+    "id": "ornate-floor-coffer-rosette",
+    "role": "花环凹格章纹 · 齐平镶地",
+    "eye": [
+      34.45027627090112,
+      57.724877520210825,
+      186.56379928349983
+    ],
+    "target": [
+      15.5,
+      0.5,
+      159.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "cc6bb86c8f2c1c90b2db011f6f26722480248029b828e590b2bd48fb707667bd",
+  "image": "ornate-floor-coffer-rosette.png",
+  "image_sha256": "ab70b66c5c3a6f180f82702bb462a3b119ae7fe6465f4c25c983d8eb0cfbd438",
+  "duration_ms": 39.43949999999995
+}

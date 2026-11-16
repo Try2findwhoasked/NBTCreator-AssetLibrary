@@ -1,0 +1,114 @@
+{
+  "source_sha256": "6ec8f3d4ccf5b1c1edeb8424e056e555b0b2f2f153abcc9274e162f459a2f7c7",
+  "geometry_sha256": "d5060f8a52817b661ca9e94e64fd846fade8f82d70e68e05b5ad42d62f51b17d",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      86.58511352539062,
+      21.918073654174805,
+      136.3252410888672
+    ],
+    "target": [
+      61.5,
+      6,
+      100.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 144,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 994,
+  "interaction_max_fps": 60,
+  "mesh_builds": 11,
+  "rendered_frames": 11,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-planter-gallery",
+  "role": "金线连槽花廊",
+  "requested_view": {
+    "id": "ornate-planter-gallery",
+    "role": "金线连槽花廊",
+    "eye": [
+      86.58510384100528,
+      21.91807219223826,
+      136.32524104945065
+    ],
+    "target": [
+      61.5,
+      6,
+      100.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "8c4cc4774efe963104790681f16d0c0831859f669cdaffba3dd4b2d9d2d94638",
+  "image": "ornate-planter-gallery.png",
+  "image_sha256": "8b891713a2f8aa4a0bb682859949312ebb043dc656392cbaf8a04b6ea1bbd4cc",
+  "duration_ms": 36.19830000000002
+}

@@ -1,0 +1,114 @@
+{
+  "source_sha256": "6ec8f3d4ccf5b1c1edeb8424e056e555b0b2f2f153abcc9274e162f459a2f7c7",
+  "geometry_sha256": "d5060f8a52817b661ca9e94e64fd846fade8f82d70e68e05b5ad42d62f51b17d",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      158.16390991210938,
+      0.4854640066623688,
+      210.3014678955078
+    ],
+    "target": [
+      148.5,
+      5,
+      196.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 192,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 192,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 240,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 21,
+  "interaction_max_fps": 60,
+  "mesh_builds": 21,
+  "rendered_frames": 21,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-lantern-chandelier",
+  "role": "四臂金饰悬灯",
+  "requested_view": {
+    "id": "ornate-lantern-chandelier",
+    "role": "四臂金饰悬灯",
+    "eye": [
+      158.1638921968698,
+      0.4854628855292171,
+      210.30146837833024
+    ],
+    "target": [
+      148.5,
+      5,
+      196.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 240,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "8c4cc4774efe963104790681f16d0c0831859f669cdaffba3dd4b2d9d2d94638",
+  "image": "ornate-lantern-chandelier.png",
+  "image_sha256": "0ae3ec4555a087553b406124a4536cf58c851c92b9abec2056af011e0f4cb220",
+  "duration_ms": 12.177700000000186
+}

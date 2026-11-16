@@ -1,0 +1,114 @@
+{
+  "source_sha256": "5de3cc0f44c428643b61deed972eaf7daa7135bfd6159e6b73777bec92494cd7",
+  "geometry_sha256": "bd65dd4c8bc73754cec4abc58b047e7fd236f1557d63e05396f1d59856caca60",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      195.18887329101562,
+      38.14683151245117,
+      148.468994140625
+    ],
+    "target": [
+      159.5,
+      15.5,
+      97.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 192,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 144,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1398,
+  "interaction_max_fps": 60,
+  "mesh_builds": 13,
+  "rendered_frames": 13,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-pattern-coffer-rosette",
+  "role": "花环凹格章纹",
+  "requested_view": {
+    "id": "ornate-pattern-coffer-rosette",
+    "role": "花环凹格章纹",
+    "eye": [
+      195.18887455077584,
+      38.14682997366528,
+      148.46899505255988
+    ],
+    "target": [
+      159.5,
+      15.5,
+      97.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "cc6bb86c8f2c1c90b2db011f6f26722480248029b828e590b2bd48fb707667bd",
+  "image": "ornate-pattern-coffer-rosette.png",
+  "image_sha256": "e386928fa9ceb242ec9eafe196fd8d532d4a3e6d2e4050ca0eb114ae26afef0c",
+  "duration_ms": 37.80729999999994
+}

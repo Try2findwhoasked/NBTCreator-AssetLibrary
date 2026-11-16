@@ -1,0 +1,202 @@
+{
+  "masters_original": true,
+  "nbt_exported": false,
+  "patterns": [
+    {
+      "blocks": 1290,
+      "content_sha256": "c52d8a46c20f5f0de2fe9b51bca47922baf70e3b38639067bc579bcc04c8a538",
+      "id": "ornate-pattern-rosette-eight",
+      "master": "rosette-eight",
+      "name": "八瓣花章浮雕",
+      "size": [
+        31,
+        31,
+        3
+      ],
+      "source_sha256": "6fd59f54057c264aa6303ec554034152a31e895bfb6d863fde948facb3eb1048",
+      "surface": "relief"
+    },
+    {
+      "blocks": 961,
+      "content_sha256": "c5f639f3ab7021a1ac4a8f7bee5aa0d25c9a2b9a83d48b84b4bf6d1341dd9388",
+      "id": "ornate-floor-rosette-eight",
+      "master": "rosette-eight",
+      "name": "八瓣花章浮雕 · 齐平镶地",
+      "size": [
+        31,
+        1,
+        31
+      ],
+      "source_sha256": "280a0c2c27e32d35eadeb04302f7748cde83bb377ab932d2d84e54cbdc3a7bcc",
+      "surface": "floor"
+    },
+    {
+      "blocks": 1290,
+      "content_sha256": "43ee2046f9f585cbdb675ac7b83354b4f60922293bb8085e40e1496a9f7efb47",
+      "id": "ornate-ceiling-rosette-eight",
+      "master": "rosette-eight",
+      "name": "八瓣花章浮雕 · 顶部花章",
+      "size": [
+        31,
+        3,
+        31
+      ],
+      "source_sha256": "0c7e69835d24f967dbb74322d172dab10e568d6892d188c4a470b04ffc25252a",
+      "surface": "ceiling"
+    },
+    {
+      "blocks": 1438,
+      "content_sha256": "5343f15050bf89092116f46097c2bc920c4dd815e70a7ff28b67159b6698b7d4",
+      "id": "ornate-pattern-interlace-knot",
+      "master": "interlace-knot",
+      "name": "连环交织结纹",
+      "size": [
+        31,
+        31,
+        3
+      ],
+      "source_sha256": "10e9655783b9b65feea14e4ce5bd9c4f06e82e5a9d93a57303f39c770e82d061",
+      "surface": "relief"
+    },
+    {
+      "blocks": 961,
+      "content_sha256": "4ac811cae7f419707a10ba9271486d9c2b55a82ca525cb5e738a6fd94c57d640",
+      "id": "ornate-floor-interlace-knot",
+      "master": "interlace-knot",
+      "name": "连环交织结纹 · 齐平镶地",
+      "size": [
+        31,
+        1,
+        31
+      ],
+      "source_sha256": "96bc67c64ed7692524357dd3e9c121de9c9877ad50bfbff6d7e743e1611a9391",
+      "surface": "floor"
+    },
+    {
+      "blocks": 1436,
+      "content_sha256": "9cdc36a169fd861da9885b68b4d23fa48b2db595ade25b3a5c300b953b95d129",
+      "id": "ornate-pattern-fan-sunburst",
+      "master": "fan-sunburst",
+      "name": "扇形日轮饰板",
+      "size": [
+        31,
+        31,
+        3
+      ],
+      "source_sha256": "97bc64d6653ef2ab569c2d4e91c75ab8475c48e0b3eb64f5b17ee712cc00ac0c",
+      "surface": "relief"
+    },
+    {
+      "blocks": 1342,
+      "content_sha256": "384af68132d5db79ab0488b5928e50489da93a05a96687c3715cdf8e420b0297",
+      "id": "ornate-pattern-scroll-leaf",
+      "master": "scroll-leaf",
+      "name": "对称卷叶浮雕",
+      "size": [
+        31,
+        31,
+        3
+      ],
+      "source_sha256": "258c9491dc87b71c38c7bb544e618908a58ed91b202c50aacf05c780bcba6bd5",
+      "surface": "relief"
+    },
+    {
+      "blocks": 647,
+      "content_sha256": "9552ba9f1b9a301476620a827bb30275a6f00c4fa8b05e92a9171a39c43a97e7",
+      "id": "ornate-pattern-palmette-frieze",
+      "master": "palmette-frieze",
+      "name": "棕叶连续饰带",
+      "size": [
+        31,
+        13,
+        3
+      ],
+      "source_sha256": "71477a6b2f9193352dfb5a3812a06e455cbea7c4c69ef3510f1bf2df70ddbcb7",
+      "surface": "relief"
+    },
+    {
+      "blocks": 612,
+      "content_sha256": "f591ae4a6fa22b6c8a332bd9bd4ecf39c93873829e106da81030850a98027e8e",
+      "id": "ornate-pattern-meander-frieze",
+      "master": "meander-frieze",
+      "name": "回环折线边带",
+      "size": [
+        31,
+        11,
+        3
+      ],
+      "source_sha256": "e659bc0409c2ac0efd5803fa5c5b4b54ad11425b4bfcaff601d5800d577a7fb1",
+      "surface": "relief"
+    },
+    {
+      "blocks": 1323,
+      "content_sha256": "5c1d8e6735a5699591809c4338dc3344b69e6b353986a3169ce490ad580058d5",
+      "id": "ornate-pattern-star-eight",
+      "master": "star-eight",
+      "name": "八向星章镶饰",
+      "size": [
+        31,
+        31,
+        3
+      ],
+      "source_sha256": "8ba05a6028fabaef5d419b73c40603af1e6e481164c9715a7f76869233711a84",
+      "surface": "relief"
+    },
+    {
+      "blocks": 961,
+      "content_sha256": "e890444d5e073f21f7c2c0744b407baeaa03faa74b1892f53e3465a8ae571808",
+      "id": "ornate-floor-star-eight",
+      "master": "star-eight",
+      "name": "八向星章镶饰 · 齐平镶地",
+      "size": [
+        31,
+        1,
+        31
+      ],
+      "source_sha256": "cbf7c38d99fb66d8315ac015ca7924d3aa12435b5c8e765202dae918713e72f3",
+      "surface": "floor"
+    },
+    {
+      "blocks": 1388,
+      "content_sha256": "5b6e9907f6ae270bb4480d289d482761bde051f98f0e3a6facf12f556633db28",
+      "id": "ornate-pattern-coffer-rosette",
+      "master": "coffer-rosette",
+      "name": "花环凹格章纹",
+      "size": [
+        31,
+        31,
+        3
+      ],
+      "source_sha256": "518b51ef16427356b9f502ed330acca95f1dc7d5a8596d5cab361285eb7a2770",
+      "surface": "relief"
+    },
+    {
+      "blocks": 961,
+      "content_sha256": "97c710a8fe3c82f4bebd29f55de776a09bf669b8d02b9dfffbb553f24fe43016",
+      "id": "ornate-floor-coffer-rosette",
+      "master": "coffer-rosette",
+      "name": "花环凹格章纹 · 齐平镶地",
+      "size": [
+        31,
+        1,
+        31
+      ],
+      "source_sha256": "53d454624e25b9876343e01259c36610d7d7c055967cb2f362911ad93e50ab6a",
+      "surface": "floor"
+    },
+    {
+      "blocks": 1388,
+      "content_sha256": "72f0e6085dd35c0124f631b78e53d5c1bc1b951981cdc1030e92a94bb8ba4f96",
+      "id": "ornate-ceiling-coffer-rosette",
+      "master": "coffer-rosette",
+      "name": "花环凹格章纹 · 顶部花章",
+      "size": [
+        31,
+        3,
+        31
+      ],
+      "source_sha256": "63f478b167238e10c8d5e9eb35c9cc355380960d07ee48a6c5c05171fb03aab5",
+      "surface": "ceiling"
+    }
+  ]
+}

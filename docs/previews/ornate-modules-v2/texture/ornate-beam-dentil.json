@@ -1,0 +1,114 @@
+{
+  "source_sha256": "2e0f123ce1ab9de3cdcbfb6bad8691d59c91124ade19bcfce2f2e8f8791a6e82",
+  "geometry_sha256": "edcac602f2ea613af9eee0fd410feac5f61b7b9c688b118aa18ec4f5bc9a96e9",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      41.92953872680664,
+      20.27120018005371,
+      185.2452850341797
+    ],
+    "target": [
+      15.5,
+      3.5,
+      147.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 0,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 192,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 739,
+  "interaction_max_fps": 60,
+  "mesh_builds": 14,
+  "rendered_frames": 14,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-beam-dentil",
+  "role": "齿饰金边檐梁",
+  "requested_view": {
+    "id": "ornate-beam-dentil",
+    "role": "齿饰金边檐梁",
+    "eye": [
+      41.92954556526304,
+      20.27120481471556,
+      185.2453028181303
+    ],
+    "target": [
+      15.5,
+      3.5,
+      147.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "b59158f63d5e3ce799aa303045311ce1890cf688d5fcadac1dacac1e96ec5286",
+  "image": "ornate-beam-dentil.png",
+  "image_sha256": "8d9d7f73374f1b528f70438a44787a3649c1f08243dc1e989b9c30353e457452",
+  "duration_ms": 23.810500000000047
+}

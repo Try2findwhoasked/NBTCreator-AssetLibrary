@@ -1,0 +1,114 @@
+{
+  "source_sha256": "2e0f123ce1ab9de3cdcbfb6bad8691d59c91124ade19bcfce2f2e8f8791a6e82",
+  "geometry_sha256": "edcac602f2ea613af9eee0fd410feac5f61b7b9c688b118aa18ec4f5bc9a96e9",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      92.73593139648438,
+      30.68659210205078,
+      93.18138122558594
+    ],
+    "target": [
+      62.5,
+      11.5,
+      50
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1486,
+  "interaction_max_fps": 60,
+  "mesh_builds": 7,
+  "rendered_frames": 7,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-wall-fan",
+  "role": "黑金放射折线饰墙",
+  "requested_view": {
+    "id": "ornate-wall-fan",
+    "role": "黑金放射折线饰墙",
+    "eye": [
+      92.73592997998124,
+      30.686594533208616,
+      93.18138313290434
+    ],
+    "target": [
+      62.5,
+      11.5,
+      50
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "b59158f63d5e3ce799aa303045311ce1890cf688d5fcadac1dacac1e96ec5286",
+  "image": "ornate-wall-fan.png",
+  "image_sha256": "3e4a9f9373df2e2f0251f9f7c086ea745d09a354daf3f0c013876197be5e74f4",
+  "duration_ms": 41.38610000000017
+}

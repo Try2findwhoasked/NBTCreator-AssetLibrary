@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NBTCreator parametric recipe envelope v1",
+  "description": "arguments also must pass the target engine's parametric_compile schema. v1 forbids ornament.sample workspace file references.",
+  "type": "object", "additionalProperties": false,
+  "required": ["schema_version", "kind", "arguments"],
+  "properties": {
+    "schema_version": {"const": 1},
+    "kind": {"const": "nbtcreator.parametric-recipe"},
+    "arguments": {"type": "object"},
+    "controls": {
+      "type": "object", "additionalProperties": false,
+      "properties": {"style": {"type": "boolean"}, "spacing": {"type": "boolean"}}
+    }
+  }
+}

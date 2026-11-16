@@ -1,0 +1,7 @@
+* text=auto eol=lf
+# These JSON and image records are addressed by their exact published bytes.
+assets/** -text
+library.json -text
+registry.json -text
+docs/previews/** -text
+docs/pattern-masters/** -text

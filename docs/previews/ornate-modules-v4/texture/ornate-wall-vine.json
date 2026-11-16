@@ -1,0 +1,114 @@
+{
+  "source_sha256": "6ec8f3d4ccf5b1c1edeb8424e056e555b0b2f2f153abcc9274e162f459a2f7c7",
+  "geometry_sha256": "d5060f8a52817b661ca9e94e64fd846fade8f82d70e68e05b5ad42d62f51b17d",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      44.73592758178711,
+      30.68659210205078,
+      93.18138122558594
+    ],
+    "target": [
+      14.5,
+      11.5,
+      50
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 0,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1187,
+  "interaction_max_fps": 60,
+  "mesh_builds": 6,
+  "rendered_frames": 6,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-wall-vine",
+  "role": "蓝金卷叶浮雕饰墙",
+  "requested_view": {
+    "id": "ornate-wall-vine",
+    "role": "蓝金卷叶浮雕饰墙",
+    "eye": [
+      44.735929979981236,
+      30.686594533208616,
+      93.18138313290434
+    ],
+    "target": [
+      14.5,
+      11.5,
+      50
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "8c4cc4774efe963104790681f16d0c0831859f669cdaffba3dd4b2d9d2d94638",
+  "image": "ornate-wall-vine.png",
+  "image_sha256": "2d3ded21c7850f45380f661e33ab5f694dd4dcbbb6b66b1a982334fdb6255279",
+  "duration_ms": 36.97440000000006
+}

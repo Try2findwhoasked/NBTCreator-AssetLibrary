@@ -1,0 +1,114 @@
+{
+  "source_sha256": "383cc887baca1dea6470e5396a94bb229a05685f8a1d7d98e9b93da278eebcc6",
+  "geometry_sha256": "f1e9be7caaa18da4297eb824217349548169d1d92253312e5186dcc7a1239690",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      160.84515380859375,
+      13.468338012695312,
+      25.558853149414062
+    ],
+    "target": [
+      147.5,
+      5,
+      6.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 192,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 0,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 370,
+  "interaction_max_fps": 60,
+  "mesh_builds": 5,
+  "rendered_frames": 5,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-stairs-ceremonial",
+  "role": "镶嵌平台礼仪阶梯",
+  "requested_view": {
+    "id": "ornate-stairs-ceremonial",
+    "role": "镶嵌平台礼仪阶梯",
+    "eye": [
+      160.84515424789814,
+      13.468337627024331,
+      25.55885543880179
+    ],
+    "target": [
+      147.5,
+      5,
+      6.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "dd7b15b605a33dbf5f40aa30c46b2299dbfabb1deb080f389d92fdc8da1db9bd",
+  "image": "ornate-stairs-ceremonial.png",
+  "image_sha256": "e4b2f85457d593c21865b1497f57214b6458bb5246621228cf4a893a346fcd4c",
+  "duration_ms": 22.99929999999995
+}

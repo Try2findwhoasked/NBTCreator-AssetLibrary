@@ -1,0 +1,409 @@
+[
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      -3.19601999820651,
+      6.293748155094338,
+      -12.35966122602427
+    ],
+    "fov": 42,
+    "id": "ornate-window-timber-four",
+    "role": "四格木窗与前挑窗台",
+    "target": [
+      3.5,
+      3.5,
+      2.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      34.41266277381542,
+      10.917303689495725,
+      -20.704617951321314
+    ],
+    "fov": 42,
+    "id": "ornate-window-timber-twelve",
+    "role": "十二格上下木窗",
+    "target": [
+      45.0,
+      6.5,
+      2.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 120,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      74.70043634801758,
+      11.423075079296893,
+      -23.30424591066935
+    ],
+    "fov": 42,
+    "id": "ornate-window-timber-sixteen",
+    "role": "十六格高窗与双层窗扇",
+    "target": [
+      86.5,
+      6.5,
+      2.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 120,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 160,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      110.80896890749065,
+      17.046693286156152,
+      -31.649524767816963
+    ],
+    "fov": 42,
+    "id": "ornate-window-classical-cornice",
+    "role": "齿饰檐口古典窗套",
+    "target": [
+      126.5,
+      10.5,
+      2.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      -10.800419928040672,
+      19.218170834206987,
+      4.899129736595285
+    ],
+    "fov": 42,
+    "id": "ornate-window-classical-pediment",
+    "role": "三角山花与线脚窗套",
+    "target": [
+      6.5,
+      12.0,
+      42.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      27.26967584732077,
+      23.357825835270624,
+      -3.528577070081866
+    ],
+    "fov": 42,
+    "id": "ornate-window-classical-divided",
+    "role": "山花分格宫廷窗",
+    "target": [
+      48.5,
+      14.5,
+      42.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 120,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      70.09757867759268,
+      18.760728384424162,
+      4.680387040474386
+    ],
+    "fov": 42,
+    "id": "ornate-window-round-single",
+    "role": "圆拱券与楔石窗",
+    "target": [
+      87.5,
+      11.5,
+      42.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 120,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 160,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      110.09757867759268,
+      18.760728384424162,
+      4.680387040474386
+    ],
+    "fov": 42,
+    "id": "ornate-window-round-twin",
+    "role": "双光圆拱石窗",
+    "target": [
+      127.5,
+      11.5,
+      42.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 120,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      -10.850660159698108,
+      21.490807866663573,
+      38.35786845058922
+    ],
+    "fov": 42,
+    "id": "ornate-window-gothic-clear",
+    "role": "玫瑰与双尖拱窗棂",
+    "target": [
+      9.5,
+      13.0,
+      82.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 120,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      27.586314153170242,
+      24.977391903545776,
+      31.21693520658207
+    ],
+    "fov": 42,
+    "id": "ornate-window-gothic-lapis",
+    "role": "蓝金彩玻玫瑰尖拱窗",
+    "target": [
+      51.5,
+      15.0,
+      82.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 120,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 120,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      67.58631415317024,
+      24.977391903545776,
+      31.21693520658207
+    ],
+    "fov": 42,
+    "id": "ornate-window-gothic-gilded",
+    "role": "黑金玫瑰宫廷尖拱窗",
+    "target": [
+      91.5,
+      15.0,
+      82.5
+    ]
+  }
+]

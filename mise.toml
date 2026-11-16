@@ -1,0 +1,15 @@
+[tasks.index]
+description = "Update asset hashes and registry manifest digest"
+run = "python tools/catalog.py index"
+
+[tasks.check]
+description = "Verify asset paths, JSON, index coverage and release hashes"
+run = "python -B tools/catalog.py check"
+
+[tasks."previews:portable"]
+description = "Rebase preview source paths without changing images, geometry or asset hashes"
+run = "python -B tools/portable_previews.py prepare"
+
+[tasks."previews:check"]
+description = "Verify portable source, snapshot, camera and image bindings"
+run = "python -B tools/portable_previews.py check"

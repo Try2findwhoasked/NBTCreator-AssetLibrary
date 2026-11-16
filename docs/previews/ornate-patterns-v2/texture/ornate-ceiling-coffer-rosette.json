@@ -1,0 +1,114 @@
+{
+  "source_sha256": "44d782effc36de671d53f189c11b595e43c71e2c26c0967b07905dba104ea6d0",
+  "geometry_sha256": "5e90eb77219915f86a1a73c19654db1e38695ad0f3baebab04fd3b7a44393e26",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      90.35541534423828,
+      -45.32099914550781,
+      197.853515625
+    ],
+    "target": [
+      63.5,
+      1.5,
+      159.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 192,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1388,
+  "interaction_max_fps": 60,
+  "mesh_builds": 15,
+  "rendered_frames": 15,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-ceiling-coffer-rosette",
+  "role": "花环凹格章纹 · 顶部花章",
+  "requested_view": {
+    "id": "ornate-ceiling-coffer-rosette",
+    "role": "花环凹格章纹 · 顶部花章",
+    "eye": [
+      90.35542553975117,
+      -45.32100560232017,
+      197.85352245480692
+    ],
+    "target": [
+      63.5,
+      1.5,
+      159.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "797ec68802b3601ea21020575afa13c258db9051aea08307d7f32cee306385d5",
+  "image": "ornate-ceiling-coffer-rosette.png",
+  "image_sha256": "0bcf142847eb59a352f894fce1a0e6580528d79ea33db40679283e45cd48fa49",
+  "duration_ms": 39.943500000000085
+}

@@ -1,0 +1,114 @@
+{
+  "source_sha256": "d94c520f1ec466098f4cdf9acd2dd84a5e89c54dd7a1d260fd618e5075c3fcf8",
+  "geometry_sha256": "4e56a15373665f1cfd53a04c7b9da5d0d10b67aff66f945a5e78925ab848697d",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      27.586313247680664,
+      24.977392196655273,
+      31.216936111450195
+    ],
+    "target": [
+      51.5,
+      15,
+      82.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 40,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 80,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 80,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 120,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1401,
+  "interaction_max_fps": 60,
+  "mesh_builds": 11,
+  "rendered_frames": 11,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-window-gothic-lapis",
+  "role": "蓝金彩玻玫瑰尖拱窗",
+  "requested_view": {
+    "id": "ornate-window-gothic-lapis",
+    "role": "蓝金彩玻玫瑰尖拱窗",
+    "eye": [
+      27.586314153170242,
+      24.977391903545776,
+      31.21693520658207
+    ],
+    "target": [
+      51.5,
+      15,
+      82.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 40,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 80,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 80,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 120,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "94a974f4b7fce6ff102ec953fb838d716499aac78811380c442a7869666525d7",
+  "image": "ornate-window-gothic-lapis.png",
+  "image_sha256": "3ab436f86a2b0237ec1163072155aba47dd638182dad1e96785a7b3809263ded",
+  "duration_ms": 34.03309999999988
+}

@@ -1,0 +1,114 @@
+{
+  "source_sha256": "2e0f123ce1ab9de3cdcbfb6bad8691d59c91124ade19bcfce2f2e8f8791a6e82",
+  "geometry_sha256": "edcac602f2ea613af9eee0fd410feac5f61b7b9c688b118aa18ec4f5bc9a96e9",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      180.9075469970703,
+      -35.309818267822266,
+      94.929443359375
+    ],
+    "target": [
+      157.5,
+      5.5,
+      61.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 192,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1563,
+  "interaction_max_fps": 60,
+  "mesh_builds": 9,
+  "rendered_frames": 9,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-ceiling-lattice",
+  "role": "蓝金格栅天花",
+  "requested_view": {
+    "id": "ornate-ceiling-lattice",
+    "role": "蓝金格栅天花",
+    "eye": [
+      180.90754993030367,
+      -35.309817919328786,
+      94.92944577567971
+    ],
+    "target": [
+      157.5,
+      5.5,
+      61.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "b59158f63d5e3ce799aa303045311ce1890cf688d5fcadac1dacac1e96ec5286",
+  "image": "ornate-ceiling-lattice.png",
+  "image_sha256": "21dbd34c9766ae3fbe449c827d3bbdb9f8ef809f1b46af131193598b0d03df60",
+  "duration_ms": 46.72790000000009
+}

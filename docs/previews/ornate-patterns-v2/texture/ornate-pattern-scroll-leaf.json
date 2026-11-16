@@ -1,0 +1,114 @@
+{
+  "source_sha256": "44d782effc36de671d53f189c11b595e43c71e2c26c0967b07905dba104ea6d0",
+  "geometry_sha256": "5e90eb77219915f86a1a73c19654db1e38695ad0f3baebab04fd3b7a44393e26",
+  "registry_sha256": "e0d9df7c519f31011e1292cd82f6f88410afaa2e2fcf80996ebff46932f3888f",
+  "camera": {
+    "eye": [
+      147.18887329101562,
+      38.14683151245117,
+      100.46898651123047
+    ],
+    "target": [
+      111.5,
+      15.5,
+      49.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42
+  },
+  "cuts": [
+    {
+      "axis": "x",
+      "position": 96,
+      "removed_side": "below"
+    },
+    {
+      "axis": "x",
+      "position": 144,
+      "removed_side": "above"
+    },
+    {
+      "axis": "z",
+      "position": 48,
+      "removed_side": "below"
+    },
+    {
+      "axis": "z",
+      "position": 96,
+      "removed_side": "above"
+    }
+  ],
+  "layer": "all",
+  "lighting": "day",
+  "quality": "balanced",
+  "pixel_ratio": 1,
+  "width": 960,
+  "height": 960,
+  "visible_blocks": 1342,
+  "interaction_max_fps": 60,
+  "mesh_builds": 8,
+  "rendered_frames": 8,
+  "verification": {
+    "block_states": true,
+    "seal": "not_checked",
+    "routes": "not_checked",
+    "saodg49": "not_checked",
+    "game": "not_checked",
+    "design": "pending_visual_review"
+  },
+  "rendering": "Lodestone default-pack visual preview; no Minecraft collision or light-propagation certification",
+  "id": "ornate-pattern-scroll-leaf",
+  "role": "对称卷叶浮雕",
+  "requested_view": {
+    "id": "ornate-pattern-scroll-leaf",
+    "role": "对称卷叶浮雕",
+    "eye": [
+      147.18887455077584,
+      38.14682997366528,
+      100.46899505255989
+    ],
+    "target": [
+      111.5,
+      15.5,
+      49.5
+    ],
+    "up": [
+      0,
+      1,
+      0
+    ],
+    "fov": 42,
+    "lighting": "day",
+    "layer": "all",
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ]
+  },
+  "snapshot_sha256": "797ec68802b3601ea21020575afa13c258db9051aea08307d7f32cee306385d5",
+  "image": "ornate-pattern-scroll-leaf.png",
+  "image_sha256": "9ce9348cc8639ea072b71b8e52ab7bb83ac05086805f6ebdd7f0147faa4ed6f1",
+  "duration_ms": 40.32569999999987
+}

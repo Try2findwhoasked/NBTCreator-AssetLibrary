@@ -1,0 +1,742 @@
+[
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      56.66747759435146,
+      43.42232088585594,
+      78.14658312965274
+    ],
+    "fov": 42,
+    "id": "ornate-pillar-corinthian",
+    "role": "白金莨苕叶柱",
+    "target": [
+      6.5,
+      28.0,
+      6.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      112.88813007757912,
+      49.64207011267631,
+      89.45874358095183
+    ],
+    "fov": 42,
+    "id": "ornate-pillar-composite",
+    "role": "黑金复合柱式",
+    "target": [
+      55.5,
+      32.0,
+      7.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      146.2495675945764,
+      37.44934811187261,
+      68.98085775602372
+    ],
+    "fov": 42,
+    "id": "ornate-pillar-ionic",
+    "role": "象牙蓝颈饰涡卷柱",
+    "target": [
+      102.5,
+      24.0,
+      6.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      160.84515424789814,
+      13.468337627024331,
+      25.55885543880179
+    ],
+    "fov": 42,
+    "id": "ornate-stairs-ceremonial",
+    "role": "镶嵌平台礼仪阶梯",
+    "target": [
+      147.5,
+      5.0,
+      6.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      44.735929979981236,
+      30.686594533208616,
+      93.18138313290434
+    ],
+    "fov": 42,
+    "id": "ornate-wall-vine",
+    "role": "蓝金卷叶浮雕饰墙",
+    "target": [
+      14.5,
+      11.5,
+      50.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      92.73592997998124,
+      30.686594533208616,
+      93.18138313290434
+    ],
+    "fov": 42,
+    "id": "ornate-wall-fan",
+    "role": "黑金放射折线饰墙",
+    "target": [
+      62.5,
+      11.5,
+      50.0
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      132.90754993030367,
+      -35.309817919328786,
+      94.92944577567971
+    ],
+    "fov": 42,
+    "id": "ornate-ceiling-coffers",
+    "role": "白金凹格宫廷藻井",
+    "target": [
+      109.5,
+      5.5,
+      61.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      180.90754993030367,
+      -35.309817919328786,
+      94.92944577567971
+    ],
+    "fov": 42,
+    "id": "ornate-ceiling-lattice",
+    "role": "蓝金格栅天花",
+    "target": [
+      157.5,
+      5.5,
+      61.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      19.866792576041092,
+      16.751193981055906,
+      122.44605418749262
+    ],
+    "fov": 42,
+    "id": "ornate-plant-vessel",
+    "role": "花冠镶金陈设花器",
+    "target": [
+      4.5,
+      7.0,
+      100.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      86.58510384100528,
+      21.91807219223826,
+      136.32524104945065
+    ],
+    "fov": 42,
+    "id": "ornate-planter-gallery",
+    "role": "金线连槽花廊",
+    "target": [
+      61.5,
+      6.0,
+      100.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      85.6594893347355,
+      22.48682969253,
+      68.59932909478746
+    ],
+    "fov": 42,
+    "id": "ornate-shelf-palace",
+    "role": "镀金陈列书架",
+    "target": [
+      103.5,
+      9.5,
+      99.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      162.09630658937297,
+      16.762272283277525,
+      120.34568616140979
+    ],
+    "fov": 42,
+    "id": "ornate-lantern-court",
+    "role": "四盏花枝庭灯",
+    "target": [
+      147.5,
+      7.5,
+      99.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      41.92954556526304,
+      20.27120481471556,
+      185.2453028181303
+    ],
+    "fov": 42,
+    "id": "ornate-beam-dentil",
+    "role": "齿饰金边檐梁",
+    "target": [
+      15.5,
+      3.5,
+      147.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      88.59075843185512,
+      31.95991133942527,
+      188.04590866907026
+    ],
+    "fov": 42,
+    "id": "ornate-arch-gilded",
+    "role": "白金椭圆礼仪拱门",
+    "target": [
+      59.5,
+      13.5,
+      146.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      128.9657930601305,
+      14.486829692530002,
+      174.72818156522194
+    ],
+    "fov": 42,
+    "id": "ornate-railing-frieze",
+    "role": "宫廷横索栏片与雕饰下槛",
+    "target": [
+      108.5,
+      1.5,
+      145.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      162.66207520472898,
+      12.274330124281464,
+      165.86924346148137
+    ],
+    "fov": 42,
+    "id": "ornate-table-inlaid",
+    "role": "镶铜白石纹样长桌",
+    "target": [
+      150.5,
+      1.0,
+      148.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 0,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 240,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      -4.046789193559075,
+      10.405375135604297,
+      174.50037445246844
+    ],
+    "fov": 42,
+    "id": "ornate-bench-highback",
+    "role": "薄木花格高背长椅",
+    "target": [
+      7.5,
+      2.0,
+      194.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 48,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 240,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      70.7837618553733,
+      14.333068518191164,
+      221.75562203601467
+    ],
+    "fov": 42,
+    "id": "ornate-bracket-volute",
+    "role": "涡卷柱头承托块",
+    "target": [
+      54.5,
+      4.0,
+      198.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 96,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 240,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      119.12450516737056,
+      15.049291527422973,
+      222.24225391785424
+    ],
+    "fov": 42,
+    "id": "ornate-pedestal-moulded",
+    "role": "金线环带陈设基座",
+    "target": [
+      102.5,
+      4.5,
+      198.5
+    ]
+  },
+  {
+    "cuts": [
+      {
+        "axis": "x",
+        "position": 144,
+        "removed_side": "below"
+      },
+      {
+        "axis": "x",
+        "position": 192,
+        "removed_side": "above"
+      },
+      {
+        "axis": "z",
+        "position": 192,
+        "removed_side": "below"
+      },
+      {
+        "axis": "z",
+        "position": 240,
+        "removed_side": "above"
+      }
+    ],
+    "eye": [
+      158.1638921968698,
+      0.4854628855292171,
+      210.30146837833024
+    ],
+    "fov": 42,
+    "id": "ornate-lantern-chandelier",
+    "role": "四臂金饰悬灯",
+    "target": [
+      148.5,
+      5.0,
+      196.5
+    ]
+  }
+]
